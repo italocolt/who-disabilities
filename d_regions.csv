@@ -1,0 +1,1436 @@
+location_name,level,cause_group,cause_name,pct_s,pct_ms,pct_m,prop_s
+Africa,1,All causes,All causes,0.0147,0.1282,0.1135,0.1144
+Americas,1,All causes,All causes,0.0251,0.194,0.169,0.1291
+Eastern Mediterranean,1,All causes,All causes,0.0161,0.1474,0.1313,0.109
+Europe,1,All causes,All causes,0.0191,0.2001,0.181,0.0955
+South-East Asia,1,All causes,All causes,0.0192,0.1561,0.1369,0.1227
+Western Pacific,1,All causes,All causes,0.0171,0.1535,0.1365,0.1113
+World,1,All causes,All causes,0.0189,0.1639,0.1449,0.1155
+Africa,2,Cardiovascular diseases,Cardiovascular diseases,0.0009,0.0052,0.0043,0.1784
+Africa,2,Chronic respiratory diseases,Chronic respiratory diseases,0.0,0.0027,0.0027,0.0001
+Africa,2,Diabetes and kidney diseases,Diabetes and kidney diseases,0.0002,0.001,0.0008,0.2464
+Africa,2,Digestive diseases,Digestive diseases,0.0,0.0009,0.0009,0.0
+Africa,2,Enteric infections,Enteric infections,0.0,0.0,0.0,0.0
+Africa,2,HIV/AIDS and sexually transmitted infections,HIV/AIDS and sexually transmitted infections,0.0009,0.0036,0.0028,0.235
+Africa,2,Maternal and neonatal disorders,Maternal and neonatal disorders,0.0015,0.0052,0.0037,0.2922
+Africa,2,Mental disorders,Mental disorders,0.0057,0.0315,0.0258,0.1805
+Africa,2,Musculoskeletal disorders,Musculoskeletal disorders,0.0019,0.0253,0.0234,0.074
+Africa,2,Neglected tropical diseases and malaria,Neglected tropical diseases and malaria,0.0003,0.0072,0.0069,0.0368
+Africa,2,Neoplasms,Neoplasms,0.0,0.0004,0.0004,0.0639
+Africa,2,Neurological disorders,Neurological disorders,0.002,0.0175,0.0155,0.1127
+Africa,2,Nutritional deficiencies,Nutritional deficiencies,0.0,0.0004,0.0004,0.0
+Africa,2,Other infectious diseases,Other infectious diseases,0.0,0.0005,0.0005,0.0005
+Africa,2,Other non-communicable diseases,Other non-communicable diseases,0.0,0.009,0.009,0.0053
+Africa,2,Respiratory infections and tuberculosis,Respiratory infections and tuberculosis,0.0003,0.0109,0.0106,0.0282
+Africa,2,Sense organ diseases,Sense organ diseases,0.0,0.0086,0.0086,0.0
+Africa,2,Skin and subcutaneous diseases,Skin and subcutaneous diseases,0.0004,0.0048,0.0044,0.0765
+Africa,2,Substance use disorders,Substance use disorders,0.0007,0.0017,0.0011,0.3911
+Americas,2,Cardiovascular diseases,Cardiovascular diseases,0.0005,0.0141,0.0136,0.0346
+Americas,2,Chronic respiratory diseases,Chronic respiratory diseases,0.0,0.0071,0.0071,0.0001
+Americas,2,Diabetes and kidney diseases,Diabetes and kidney diseases,0.001,0.0037,0.0027,0.2643
+Americas,2,Digestive diseases,Digestive diseases,0.0,0.0017,0.0017,0.0
+Americas,2,Enteric infections,Enteric infections,0.0,0.0,0.0,0.0
+Americas,2,HIV/AIDS and sexually transmitted infections,HIV/AIDS and sexually transmitted infections,0.0001,0.0003,0.0002,0.1865
+Americas,2,Maternal and neonatal disorders,Maternal and neonatal disorders,0.0015,0.0043,0.0028,0.3427
+Americas,2,Mental disorders,Mental disorders,0.0073,0.0416,0.0343,0.1762
+Americas,2,Musculoskeletal disorders,Musculoskeletal disorders,0.0076,0.0656,0.0581,0.1157
+Americas,2,Neglected tropical diseases and malaria,Neglected tropical diseases and malaria,0.0,0.0023,0.0023,0.0003
+Americas,2,Neoplasms,Neoplasms,0.0001,0.0024,0.0023,0.0357
+Americas,2,Neurological disorders,Neurological disorders,0.0016,0.028,0.0264,0.0567
+Americas,2,Nutritional deficiencies,Nutritional deficiencies,0.0,0.0001,0.0001,0.0
+Americas,2,Other infectious diseases,Other infectious diseases,0.0,0.0001,0.0001,0.0003
+Americas,2,Other non-communicable diseases,Other non-communicable diseases,0.0,0.0054,0.0054,0.0024
+Americas,2,Respiratory infections and tuberculosis,Respiratory infections and tuberculosis,0.0003,0.0067,0.0065,0.0387
+Americas,2,Sense organ diseases,Sense organ diseases,0.0,0.0112,0.0112,0.0
+Americas,2,Skin and subcutaneous diseases,Skin and subcutaneous diseases,0.001,0.0064,0.0054,0.1539
+Americas,2,Substance use disorders,Substance use disorders,0.0045,0.0103,0.0058,0.4393
+Eastern Mediterranean,2,Cardiovascular diseases,Cardiovascular diseases,0.0006,0.0062,0.0055,0.0994
+Eastern Mediterranean,2,Chronic respiratory diseases,Chronic respiratory diseases,0.0,0.004,0.004,0.0
+Eastern Mediterranean,2,Diabetes and kidney diseases,Diabetes and kidney diseases,0.0005,0.0019,0.0014,0.2575
+Eastern Mediterranean,2,Digestive diseases,Digestive diseases,0.0,0.0011,0.0011,0.0
+Eastern Mediterranean,2,Enteric infections,Enteric infections,0.0,0.0,0.0,0.0
+Eastern Mediterranean,2,HIV/AIDS and sexually transmitted infections,HIV/AIDS and sexually transmitted infections,0.0001,0.0002,0.0002,0.2224
+Eastern Mediterranean,2,Maternal and neonatal disorders,Maternal and neonatal disorders,0.0018,0.0062,0.0044,0.2935
+Eastern Mediterranean,2,Mental disorders,Mental disorders,0.0066,0.0356,0.029,0.1856
+Eastern Mediterranean,2,Musculoskeletal disorders,Musculoskeletal disorders,0.0032,0.0372,0.034,0.0853
+Eastern Mediterranean,2,Neglected tropical diseases and malaria,Neglected tropical diseases and malaria,0.0,0.0004,0.0004,0.0237
+Eastern Mediterranean,2,Neoplasms,Neoplasms,0.0,0.0006,0.0006,0.0557
+Eastern Mediterranean,2,Neurological disorders,Neurological disorders,0.0014,0.0221,0.0208,0.0614
+Eastern Mediterranean,2,Nutritional deficiencies,Nutritional deficiencies,0.0,0.0006,0.0006,0.0
+Eastern Mediterranean,2,Other infectious diseases,Other infectious diseases,0.0,0.0004,0.0004,0.0335
+Eastern Mediterranean,2,Other non-communicable diseases,Other non-communicable diseases,0.0,0.0088,0.0088,0.0027
+Eastern Mediterranean,2,Respiratory infections and tuberculosis,Respiratory infections and tuberculosis,0.0003,0.0085,0.0082,0.0339
+Eastern Mediterranean,2,Sense organ diseases,Sense organ diseases,0.0,0.012,0.012,0.0
+Eastern Mediterranean,2,Skin and subcutaneous diseases,Skin and subcutaneous diseases,0.0005,0.0052,0.0047,0.0942
+Eastern Mediterranean,2,Substance use disorders,Substance use disorders,0.0012,0.0027,0.0015,0.452
+Europe,2,Cardiovascular diseases,Cardiovascular diseases,0.0013,0.0189,0.0176,0.0698
+Europe,2,Chronic respiratory diseases,Chronic respiratory diseases,0.0,0.0062,0.0062,0.0001
+Europe,2,Diabetes and kidney diseases,Diabetes and kidney diseases,0.0009,0.0031,0.0022,0.3018
+Europe,2,Digestive diseases,Digestive diseases,0.0,0.0023,0.0023,0.0
+Europe,2,Enteric infections,Enteric infections,0.0,0.0,0.0,0.0
+Europe,2,HIV/AIDS and sexually transmitted infections,HIV/AIDS and sexually transmitted infections,0.0001,0.0003,0.0002,0.2294
+Europe,2,Maternal and neonatal disorders,Maternal and neonatal disorders,0.0013,0.0037,0.0025,0.3378
+Europe,2,Mental disorders,Mental disorders,0.0069,0.0377,0.0307,0.1843
+Europe,2,Musculoskeletal disorders,Musculoskeletal disorders,0.0034,0.0654,0.062,0.0516
+Europe,2,Neglected tropical diseases and malaria,Neglected tropical diseases and malaria,0.0,0.0005,0.0005,0.0
+Europe,2,Neoplasms,Neoplasms,0.0001,0.0031,0.003,0.0378
+Europe,2,Neurological disorders,Neurological disorders,0.0013,0.0336,0.0323,0.0379
+Europe,2,Nutritional deficiencies,Nutritional deficiencies,0.0,0.0001,0.0001,0.0
+Europe,2,Other infectious diseases,Other infectious diseases,0.0,0.0001,0.0001,0.0014
+Europe,2,Other non-communicable diseases,Other non-communicable diseases,0.0,0.0084,0.0084,0.0016
+Europe,2,Respiratory infections and tuberculosis,Respiratory infections and tuberculosis,0.0003,0.0074,0.0071,0.0394
+Europe,2,Sense organ diseases,Sense organ diseases,0.0,0.0122,0.0122,0.0
+Europe,2,Skin and subcutaneous diseases,Skin and subcutaneous diseases,0.0012,0.007,0.0058,0.1732
+Europe,2,Substance use disorders,Substance use disorders,0.0025,0.0061,0.0037,0.4014
+South-East Asia,2,Cardiovascular diseases,Cardiovascular diseases,0.0008,0.0071,0.0063,0.1135
+South-East Asia,2,Chronic respiratory diseases,Chronic respiratory diseases,0.0,0.008,0.008,0.0
+South-East Asia,2,Diabetes and kidney diseases,Diabetes and kidney diseases,0.001,0.0031,0.0021,0.3197
+South-East Asia,2,Digestive diseases,Digestive diseases,0.0,0.0013,0.0013,0.0
+South-East Asia,2,Enteric infections,Enteric infections,0.0,0.0,0.0,0.0
+South-East Asia,2,HIV/AIDS and sexually transmitted infections,HIV/AIDS and sexually transmitted infections,0.0,0.0003,0.0002,0.1079
+South-East Asia,2,Maternal and neonatal disorders,Maternal and neonatal disorders,0.0018,0.0093,0.0075,0.1936
+South-East Asia,2,Mental disorders,Mental disorders,0.0067,0.0314,0.0247,0.2139
+South-East Asia,2,Musculoskeletal disorders,Musculoskeletal disorders,0.0059,0.0427,0.0368,0.1384
+South-East Asia,2,Neglected tropical diseases and malaria,Neglected tropical diseases and malaria,0.0,0.0012,0.0012,0.0028
+South-East Asia,2,Neoplasms,Neoplasms,0.0,0.0006,0.0005,0.0665
+South-East Asia,2,Neurological disorders,Neurological disorders,0.0011,0.0219,0.0208,0.0514
+South-East Asia,2,Nutritional deficiencies,Nutritional deficiencies,0.0,0.0004,0.0004,0.0
+South-East Asia,2,Other infectious diseases,Other infectious diseases,0.0001,0.0006,0.0005,0.1651
+South-East Asia,2,Other non-communicable diseases,Other non-communicable diseases,0.0,0.0061,0.006,0.0022
+South-East Asia,2,Respiratory infections and tuberculosis,Respiratory infections and tuberculosis,0.0003,0.0116,0.0113,0.0287
+South-East Asia,2,Sense organ diseases,Sense organ diseases,0.0,0.0153,0.0153,0.0
+South-East Asia,2,Skin and subcutaneous diseases,Skin and subcutaneous diseases,0.0005,0.005,0.0045,0.1014
+South-East Asia,2,Substance use disorders,Substance use disorders,0.001,0.0025,0.0015,0.3946
+Western Pacific,2,Cardiovascular diseases,Cardiovascular diseases,0.0016,0.0139,0.0122,0.1166
+Western Pacific,2,Chronic respiratory diseases,Chronic respiratory diseases,0.0,0.0082,0.0082,0.0001
+Western Pacific,2,Diabetes and kidney diseases,Diabetes and kidney diseases,0.0011,0.0026,0.0016,0.4094
+Western Pacific,2,Digestive diseases,Digestive diseases,0.0,0.0008,0.0008,0.0
+Western Pacific,2,Enteric infections,Enteric infections,0.0,0.0,0.0,0.0
+Western Pacific,2,HIV/AIDS and sexually transmitted infections,HIV/AIDS and sexually transmitted infections,0.0,0.0002,0.0001,0.2416
+Western Pacific,2,Maternal and neonatal disorders,Maternal and neonatal disorders,0.0011,0.0033,0.0022,0.335
+Western Pacific,2,Mental disorders,Mental disorders,0.0057,0.024,0.0183,0.2363
+Western Pacific,2,Musculoskeletal disorders,Musculoskeletal disorders,0.005,0.0516,0.0466,0.0965
+Western Pacific,2,Neglected tropical diseases and malaria,Neglected tropical diseases and malaria,0.0,0.0013,0.0013,0.0003
+Western Pacific,2,Neoplasms,Neoplasms,0.0001,0.0021,0.002,0.0412
+Western Pacific,2,Neurological disorders,Neurological disorders,0.0008,0.0251,0.0244,0.0305
+Western Pacific,2,Nutritional deficiencies,Nutritional deficiencies,0.0,0.0001,0.0001,0.0
+Western Pacific,2,Other infectious diseases,Other infectious diseases,0.0,0.0002,0.0002,0.0009
+Western Pacific,2,Other non-communicable diseases,Other non-communicable diseases,0.0,0.0047,0.0047,0.0014
+Western Pacific,2,Respiratory infections and tuberculosis,Respiratory infections and tuberculosis,0.0,0.0017,0.0017,0.0128
+Western Pacific,2,Sense organ diseases,Sense organ diseases,0.0,0.0137,0.0137,0.0
+Western Pacific,2,Skin and subcutaneous diseases,Skin and subcutaneous diseases,0.0007,0.0053,0.0046,0.1291
+Western Pacific,2,Substance use disorders,Substance use disorders,0.0011,0.0033,0.0022,0.3472
+World,2,Cardiovascular diseases,Cardiovascular diseases,0.0012,0.0127,0.0115,0.0932
+World,2,Chronic respiratory diseases,Chronic respiratory diseases,0.0,0.0072,0.0072,0.0001
+World,2,Diabetes and kidney diseases,Diabetes and kidney diseases,0.0009,0.0029,0.0019,0.3285
+World,2,Digestive diseases,Digestive diseases,0.0,0.0014,0.0014,0.0
+World,2,Enteric infections,Enteric infections,0.0,0.0,0.0,0.0
+World,2,HIV/AIDS and sexually transmitted infections,HIV/AIDS and sexually transmitted infections,0.0007,0.0027,0.002,0.2484
+World,2,Maternal and neonatal disorders,Maternal and neonatal disorders,0.0015,0.0066,0.0051,0.2324
+World,2,Mental disorders,Mental disorders,0.0065,0.0331,0.0266,0.1954
+World,2,Musculoskeletal disorders,Musculoskeletal disorders,0.0054,0.0511,0.0457,0.1055
+World,2,Neglected tropical diseases and malaria,Neglected tropical diseases and malaria,0.0003,0.0044,0.0041,0.0574
+World,2,Neoplasms,Neoplasms,0.0001,0.0021,0.002,0.0371
+World,2,Neurological disorders,Neurological disorders,0.0014,0.0251,0.0237,0.0551
+World,2,Nutritional deficiencies,Nutritional deficiencies,0.0,0.0004,0.0004,0.0
+World,2,Other infectious diseases,Other infectious diseases,0.0001,0.0004,0.0004,0.1937
+World,2,Other non-communicable diseases,Other non-communicable diseases,0.0,0.007,0.007,0.0039
+World,2,Respiratory infections and tuberculosis,Respiratory infections and tuberculosis,0.0003,0.0095,0.0092,0.0313
+World,2,Sense organ diseases,Sense organ diseases,0.0,0.0131,0.0131,0.0
+World,2,Skin and subcutaneous diseases,Skin and subcutaneous diseases,0.0008,0.0056,0.0048,0.1399
+World,2,Substance use disorders,Substance use disorders,0.0025,0.0058,0.0033,0.4345
+Africa,3,Cardiovascular diseases,Other cardiovascular and circulatory diseases,0.0,0.0019,0.0019,0.0
+Africa,3,Cardiovascular diseases,Ischemic stroke,0.0007,0.0014,0.0008,0.4681
+Africa,3,Cardiovascular diseases,Atrial fibrillation and flutter,0.0,0.0006,0.0006,0.0
+Africa,3,Cardiovascular diseases,Intracerebral hemorrhage,0.0002,0.0004,0.0002,0.5221
+Africa,3,Cardiovascular diseases,Hypertensive heart disease,0.0,0.0004,0.0004,0.0
+Africa,3,Cardiovascular diseases,Other cardiomyopathy,0.0,0.0003,0.0003,0.0
+Africa,3,Cardiovascular diseases,Subarachnoid hemorrhage,0.0001,0.0001,0.0001,0.4862
+Africa,3,Cardiovascular diseases,Ischemic heart disease,0.0,0.0001,0.0001,0.0
+Africa,3,Cardiovascular diseases,Rheumatic heart disease,0.0,0.0,0.0,0.0
+Africa,3,Cardiovascular diseases,Endocarditis,0.0,0.0,0.0,0.0
+Africa,3,Cardiovascular diseases,Alcoholic cardiomyopathy,0.0,0.0,0.0,0.0
+Africa,3,Cardiovascular diseases,Pulmonary Arterial Hypertension,0.0,0.0,0.0,0.0
+Africa,3,Cardiovascular diseases,Myocarditis,0.0,0.0,0.0,0.0
+Africa,3,Cardiovascular diseases,Non-rheumatic degenerative mitral valve disease,0.0,0.0,0.0,0.0
+Africa,3,Cardiovascular diseases,Non-rheumatic calcific aortic valve disease,0.0,0.0,0.0,0.0
+Africa,3,Cardiovascular diseases,Other non-rheumatic valve diseases,0.0,0.0,0.0,0.0
+Africa,3,Chronic respiratory diseases,Chronic obstructive pulmonary disease,0.0,0.0026,0.0026,0.0
+Africa,3,Chronic respiratory diseases,Interstitial lung disease and pulmonary sarcoidosis,0.0,0.0,0.0,0.0
+Africa,3,Chronic respiratory diseases,Silicosis,0.0,0.0,0.0,0.0671
+Africa,3,Chronic respiratory diseases,Other pneumoconiosis,0.0,0.0,0.0,0.0554
+Africa,3,Chronic respiratory diseases,Asbestosis,0.0,0.0,0.0,0.0915
+Africa,3,Chronic respiratory diseases,Coal workers pneumoconiosis,0.0,0.0,0.0,0.0707
+Africa,3,Diabetes and kidney diseases,Diabetes mellitus type 2,0.0,0.0004,0.0004,0.0
+Africa,3,Diabetes and kidney diseases,Chronic kidney disease due to other and unspecified causes,0.0001,0.0003,0.0002,0.3712
+Africa,3,Diabetes and kidney diseases,Chronic kidney disease due to diabetes mellitus type 2,0.0,0.0001,0.0001,0.2796
+Africa,3,Diabetes and kidney diseases,Chronic kidney disease due to glomerulonephritis,0.0001,0.0001,0.0,0.7647
+Africa,3,Diabetes and kidney diseases,Chronic kidney disease due to hypertension,0.0,0.0001,0.0,0.5407
+Africa,3,Diabetes and kidney diseases,Chronic kidney disease due to diabetes mellitus type 1,0.0,0.0,0.0,0.5602
+Africa,3,Diabetes and kidney diseases,Diabetes mellitus type 1,0.0,0.0,0.0,0.0
+Africa,3,Digestive diseases,"Inguinal, femoral, and abdominal hernia",0.0,0.0003,0.0003,0.0
+Africa,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to other causes,0.0,0.0002,0.0002,0.0
+Africa,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to hepatitis B,0.0,0.0001,0.0001,0.0
+Africa,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to hepatitis C,0.0,0.0001,0.0001,0.0
+Africa,3,Digestive diseases,Peptic ulcer disease,0.0,0.0,0.0,0.0
+Africa,3,Digestive diseases,Ulcerative colitis,0.0,0.0,0.0,0.0
+Africa,3,Digestive diseases,Pancreatitis,0.0,0.0,0.0,0.0
+Africa,3,Digestive diseases,Crohn's disease,0.0,0.0,0.0,0.0
+Africa,3,Digestive diseases,Gastritis and duodenitis,0.0,0.0,0.0,0.0
+Africa,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to alcohol use,0.0,0.0,0.0,0.0
+Africa,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to NAFLD,0.0,0.0,0.0,0.0
+Africa,3,Digestive diseases,Vascular intestinal disorders,0.0,0.0,0.0,0.0
+Africa,3,Enteric infections,Diarrheal diseases,0.0,0.0,0.0,0.0
+Africa,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS resulting in other diseases,0.0009,0.0025,0.0016,0.344
+Africa,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Drug-susceptible Tuberculosis,0.0,0.001,0.001,0.0
+Africa,3,HIV/AIDS and sexually transmitted infections,Syphilis,0.0,0.0001,0.0001,0.0226
+Africa,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Multidrug-resistant Tuberculosis without extensive drug resistance,0.0,0.0,0.0,0.0
+Africa,3,HIV/AIDS and sexually transmitted infections,Other sexually transmitted infections,0.0,0.0,0.0,0.0
+Africa,3,HIV/AIDS and sexually transmitted infections,Chlamydial infection,0.0,0.0,0.0,0.0
+Africa,3,HIV/AIDS and sexually transmitted infections,Gonococcal infection,0.0,0.0,0.0,0.0
+Africa,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Extensively drug-resistant Tuberculosis,0.0,0.0,0.0,0.0
+Africa,3,Injuries,injuries,0.0,0.0037,0.0037,0.0
+Africa,3,Maternal and neonatal disorders,Neonatal preterm birth,0.0007,0.0024,0.0017,0.287
+Africa,3,Maternal and neonatal disorders,Neonatal encephalopathy due to birth asphyxia and trauma,0.0005,0.0013,0.0009,0.3514
+Africa,3,Maternal and neonatal disorders,Neonatal sepsis and other neonatal infections,0.0003,0.0009,0.0006,0.3569
+Africa,3,Maternal and neonatal disorders,Maternal obstructed labor and uterine rupture,0.0,0.0007,0.0007,0.0
+Africa,3,Maternal and neonatal disorders,Hemolytic disease and other neonatal jaundice,0.0001,0.0002,0.0001,0.3561
+Africa,3,Mental disorders,Major depressive disorder,0.0039,0.011,0.0071,0.3556
+Africa,3,Mental disorders,Anxiety disorders,0.0,0.0075,0.0075,0.0
+Africa,3,Mental disorders,Conduct disorder,0.0,0.0042,0.0042,0.0
+Africa,3,Mental disorders,Autism spectrum disorders,0.0,0.0028,0.0028,0.0
+Africa,3,Mental disorders,Bipolar disorder,0.0,0.0022,0.0022,0.0
+Africa,3,Mental disorders,Schizophrenia,0.0018,0.0018,0.0,1.0
+Africa,3,Mental disorders,Bulimia nervosa,0.0,0.0011,0.0011,0.0
+Africa,3,Mental disorders,Other mental disorders,0.0,0.0008,0.0008,0.0
+Africa,3,Mental disorders,Anorexia nervosa,0.0,0.0004,0.0004,0.0
+Africa,3,Mental disorders,Idiopathic developmental intellectual disability,0.0,0.0002,0.0002,0.0
+Africa,3,Musculoskeletal disorders,Low back pain,0.0,0.0135,0.0135,0.0
+Africa,3,Musculoskeletal disorders,Other musculoskeletal disorders,0.0018,0.0051,0.0033,0.3497
+Africa,3,Musculoskeletal disorders,Neck pain,0.0,0.0042,0.0042,0.0
+Africa,3,Musculoskeletal disorders,Osteoarthritis knee,0.0,0.0016,0.0016,0.0
+Africa,3,Musculoskeletal disorders,Osteoarthritis hand,0.0,0.0005,0.0005,0.0
+Africa,3,Musculoskeletal disorders,Osteoarthritis other,0.0,0.0003,0.0003,0.0
+Africa,3,Musculoskeletal disorders,Gout,0.0,0.0002,0.0002,0.1291
+Africa,3,Musculoskeletal disorders,Osteoarthritis hip,0.0,0.0002,0.0002,0.0
+Africa,3,Musculoskeletal disorders,Rheumatoid arthritis,0.0,0.0001,0.0001,0.3842
+Africa,3,Neglected tropical diseases and malaria,Onchocerciasis,0.0,0.0056,0.0056,0.0
+Africa,3,Neglected tropical diseases and malaria,Malaria,0.0003,0.0007,0.0004,0.3782
+Africa,3,Neglected tropical diseases and malaria,Cysticercosis,0.0,0.0006,0.0006,0.0
+Africa,3,Neglected tropical diseases and malaria,Trachoma,0.0,0.0003,0.0003,0.0
+Africa,3,Neglected tropical diseases and malaria,Dengue,0.0,0.0001,0.0001,0.0
+Africa,3,Neglected tropical diseases and malaria,Schistosomiasis,0.0,0.0,0.0,0.0
+Africa,3,Neglected tropical diseases and malaria,Cystic echinococcosis,0.0,0.0,0.0,0.0
+Africa,3,Neglected tropical diseases and malaria,African trypanosomiasis,0.0,0.0,0.0,1.0
+Africa,3,Neglected tropical diseases and malaria,Ebola,0.0,0.0,0.0,0.0
+Africa,3,Neglected tropical diseases and malaria,Zika virus,0.0,0.0,0.0,
+Africa,3,Neglected tropical diseases and malaria,Chagas disease,0.0,0.0,0.0,
+Africa,3,Neglected tropical diseases and malaria,Food-borne trematodiases,0.0,0.0,0.0,
+Africa,3,Neoplasms,Prostate cancer,0.0,0.0001,0.0001,0.0
+Africa,3,Neoplasms,Cervical cancer,0.0,0.0001,0.0001,0.0939
+Africa,3,Neoplasms,Breast cancer,0.0,0.0001,0.0001,0.0606
+Africa,3,Neoplasms,Colon and rectum cancer,0.0,0.0,0.0,0.0
+Africa,3,Neoplasms,Ovarian cancer,0.0,0.0,0.0,0.0694
+Africa,3,Neoplasms,"Tracheal, bronchus, and lung cancer",0.0,0.0,0.0,0.0
+Africa,3,Neoplasms,Esophageal cancer,0.0,0.0,0.0,0.1386
+Africa,3,Neoplasms,Stomach cancer,0.0,0.0,0.0,0.0
+Africa,3,Neoplasms,Other non-Hodgkin lymphoma,0.0,0.0,0.0,0.1032
+Africa,3,Neoplasms,Bladder cancer,0.0,0.0,0.0,0.0574
+Africa,3,Neoplasms,Malignant neoplasm of bone and articular cartilage,0.0,0.0,0.0,0.0284
+Africa,3,Neoplasms,Uterine cancer,0.0,0.0,0.0,0.0581
+Africa,3,Neoplasms,Soft tissue and other extraosseous sarcomas,0.0,0.0,0.0,0.0503
+Africa,3,Neoplasms,Other malignant neoplasms,0.0,0.0,0.0,0.1466
+Africa,3,Neoplasms,Lip and oral cavity cancer,0.0,0.0,0.0,0.113
+Africa,3,Neoplasms,Liver cancer due to hepatitis B,0.0,0.0,0.0,0.1564
+Africa,3,Neoplasms,Pancreatic cancer,0.0,0.0,0.0,0.1614
+Africa,3,Neoplasms,Larynx cancer,0.0,0.0,0.0,0.0828
+Africa,3,Neoplasms,Brain and central nervous system cancer,0.0,0.0,0.0,0.125
+Africa,3,Neoplasms,Kidney cancer,0.0,0.0,0.0,0.0953
+Africa,3,Neoplasms,Other eye cancers,0.0,0.0,0.0,0.0395
+Africa,3,Neoplasms,Hodgkin lymphoma,0.0,0.0,0.0,0.1101
+Africa,3,Neoplasms,Acute lymphoid leukemia,0.0,0.0,0.0,0.1198
+Africa,3,Neoplasms,Multiple myeloma,0.0,0.0,0.0,0.086
+Africa,3,Neoplasms,Liver cancer due to hepatitis C,0.0,0.0,0.0,0.1594
+Africa,3,Neoplasms,Nasopharynx cancer,0.0,0.0,0.0,0.0976
+Africa,3,Neoplasms,Thyroid cancer,0.0,0.0,0.0,0.0517
+Africa,3,Neoplasms,Liver cancer due to alcohol use,0.0,0.0,0.0,0.1584
+Africa,3,Neoplasms,Chronic lymphoid leukemia,0.0,0.0,0.0,0.0685
+Africa,3,Neoplasms,Malignant skin melanoma,0.0,0.0,0.0,0.1398
+Africa,3,Neoplasms,Acute myeloid leukemia,0.0,0.0,0.0,0.1352
+Africa,3,Neoplasms,Other leukemia,0.0,0.0,0.0,0.0448
+Africa,3,Neoplasms,Retinoblastoma,0.0,0.0,0.0,0.009
+Africa,3,Neoplasms,Liver cancer due to NASH,0.0,0.0,0.0,0.1585
+Africa,3,Neoplasms,Burkitt lymphoma,0.0,0.0,0.0,0.0375
+Africa,3,Neoplasms,Gallbladder and biliary tract cancer,0.0,0.0,0.0,0.1566
+Africa,3,Neoplasms,Other pharynx cancer,0.0,0.0,0.0,0.1597
+Africa,3,Neoplasms,Neuroblastoma and other peripheral nervous cell tumors,0.0,0.0,0.0,0.0156
+Africa,3,Neoplasms,Testicular cancer,0.0,0.0,0.0,0.1202
+Africa,3,Neoplasms,Liver cancer due to other causes,0.0,0.0,0.0,0.1568
+Africa,3,Neoplasms,Hepatoblastoma,0.0,0.0,0.0,0.0229
+Africa,3,Neoplasms,Mesothelioma,0.0,0.0,0.0,0.1094
+Africa,3,Neoplasms,Chronic myeloid leukemia,0.0,0.0,0.0,0.155
+Africa,3,Neoplasms,Non-melanoma skin cancer (squamous-cell carcinoma),0.0,0.0,0.0,0.0
+Africa,3,Neurological disorders,Migraine,0.0,0.0119,0.0119,0.0
+Africa,3,Neurological disorders,Idiopathic epilepsy,0.002,0.0034,0.0014,0.5759
+Africa,3,Neurological disorders,Tension-type headache,0.0,0.0012,0.0012,0.0
+Africa,3,Neurological disorders,Alzheimer's disease and other dementias,0.0,0.0009,0.0009,0.0
+Africa,3,Neurological disorders,Parkinson's disease,0.0,0.0001,0.0001,0.0
+Africa,3,Neurological disorders,Multiple sclerosis,0.0,0.0,0.0,0.1524
+Africa,3,Neurological disorders,Other neurological disorders,0.0,0.0,0.0,0.0
+Africa,3,Neurological disorders,Motor neuron disease,0.0,0.0,0.0,0.1574
+Africa,3,Nutritional deficiencies,Vitamin A deficiency,0.0,0.0003,0.0003,0.0
+Africa,3,Nutritional deficiencies,Iodine deficiency,0.0,0.0001,0.0001,0.0
+Africa,3,Nutritional deficiencies,Protein-energy malnutrition,0.0,0.0,0.0,0.0
+Africa,3,Other infectious diseases,Meningitis,0.0,0.0004,0.0004,0.0
+Africa,3,Other infectious diseases,Encephalitis,0.0,0.0001,0.0001,0.0001
+Africa,3,Other infectious diseases,Other unspecified infectious diseases,0.0,0.0,0.0,0.0
+Africa,3,Other infectious diseases,Tetanus,0.0,0.0,0.0,0.3545
+Africa,3,Other non-communicable diseases,Other gynecological diseases,0.0,0.0065,0.0065,0.0
+Africa,3,Other non-communicable diseases,Congenital musculoskeletal and limb anomalies,0.0,0.0016,0.0016,0.0
+Africa,3,Other non-communicable diseases,Other congenital birth defects,0.0,0.0008,0.0008,0.0
+Africa,3,Other non-communicable diseases,Sickle cell disorders,0.0,0.0008,0.0008,0.0208
+Africa,3,Other non-communicable diseases,Endometriosis,0.0,0.0005,0.0005,0.0
+Africa,3,Other non-communicable diseases,Neural tube defects,0.0,0.0003,0.0003,0.0718
+Africa,3,Other non-communicable diseases,Other chromosomal abnormalities,0.0,0.0002,0.0002,0.0474
+Africa,3,Other non-communicable diseases,Congenital heart anomalies,0.0,0.0002,0.0002,0.0
+Africa,3,Other non-communicable diseases,Urogenital congenital anomalies,0.0,0.0001,0.0001,0.0
+Africa,3,Other non-communicable diseases,Down syndrome,0.0,0.0001,0.0001,0.0001
+Africa,3,Other non-communicable diseases,Uterine fibroids,0.0,0.0,0.0,0.0
+Africa,3,Other non-communicable diseases,Other hemoglobinopathies and hemolytic anemias,0.0,0.0,0.0,0.0
+Africa,3,Other non-communicable diseases,Thalassemias,0.0,0.0,0.0,0.0
+Africa,3,Other non-communicable diseases,G6PD deficiency,0.0,0.0,0.0,0.0
+Africa,3,Other non-communicable diseases,Thyroid diseases,0.0,0.0,0.0,0.0
+Africa,3,Other non-communicable diseases,Digestive congenital anomalies,0.0,0.0,0.0,0.0
+Africa,3,Respiratory infections and tuberculosis,COVID-19,0.0003,0.0079,0.0076,0.039
+Africa,3,Respiratory infections and tuberculosis,Drug-susceptible tuberculosis,0.0,0.0029,0.0029,0.0
+Africa,3,Respiratory infections and tuberculosis,Multidrug-resistant tuberculosis without extensive drug resistance,0.0,0.0001,0.0001,0.0
+Africa,3,Respiratory infections and tuberculosis,Otitis media,0.0,0.0,0.0,0.0
+Africa,3,Respiratory infections and tuberculosis,Upper respiratory infections,0.0,0.0,0.0,0.0
+Africa,3,Respiratory infections and tuberculosis,Lower respiratory infections,0.0,0.0,0.0,0.0
+Africa,3,Respiratory infections and tuberculosis,Extensively drug-resistant tuberculosis,0.0,0.0,0.0,0.0
+Africa,3,Sense organ diseases,Age-related and other hearing loss,0.0,0.0036,0.0036,0.0
+Africa,3,Sense organ diseases,Cataract,0.0,0.0022,0.0022,0.0
+Africa,3,Sense organ diseases,Other vision loss,0.0,0.0014,0.0014,0.0
+Africa,3,Sense organ diseases,Refraction disorders,0.0,0.0009,0.0009,0.0
+Africa,3,Sense organ diseases,Glaucoma,0.0,0.0005,0.0005,0.0
+Africa,3,Sense organ diseases,Age-related macular degeneration,0.0,0.0002,0.0002,0.0
+Africa,3,Skin and subcutaneous diseases,Urticaria,0.0,0.0021,0.0021,0.0
+Africa,3,Skin and subcutaneous diseases,Atopic dermatitis,0.0002,0.001,0.0008,0.1609
+Africa,3,Skin and subcutaneous diseases,Acne vulgaris,0.0,0.0008,0.0008,0.0
+Africa,3,Skin and subcutaneous diseases,Contact dermatitis,0.0,0.0005,0.0005,0.0
+Africa,3,Skin and subcutaneous diseases,Psoriasis,0.0002,0.0005,0.0003,0.4358
+Africa,3,Substance use disorders,Alcohol use disorders,0.0004,0.001,0.0006,0.3905
+Africa,3,Substance use disorders,Opioid use disorders,0.0003,0.0005,0.0002,0.5519
+Africa,3,Substance use disorders,Cannabis use disorders,0.0,0.0001,0.0001,0.0
+Africa,3,Substance use disorders,Amphetamine use disorders,0.0,0.0001,0.0001,0.027
+Africa,3,Substance use disorders,Cocaine use disorders,0.0,0.0,0.0,0.2138
+Americas,3,Cardiovascular diseases,Atrial fibrillation and flutter,0.0,0.0046,0.0046,0.0
+Americas,3,Cardiovascular diseases,Other cardiovascular and circulatory diseases,0.0,0.0039,0.0039,0.0
+Americas,3,Cardiovascular diseases,Ischemic stroke,0.0004,0.0027,0.0024,0.1291
+Americas,3,Cardiovascular diseases,Ischemic heart disease,0.0,0.0011,0.0011,0.0
+Americas,3,Cardiovascular diseases,Hypertensive heart disease,0.0,0.0006,0.0006,0.0
+Americas,3,Cardiovascular diseases,Intracerebral hemorrhage,0.0001,0.0005,0.0004,0.1736
+Americas,3,Cardiovascular diseases,Subarachnoid hemorrhage,0.0001,0.0003,0.0003,0.154
+Americas,3,Cardiovascular diseases,Other cardiomyopathy,0.0,0.0003,0.0003,0.0
+Americas,3,Cardiovascular diseases,Non-rheumatic calcific aortic valve disease,0.0,0.0002,0.0002,0.0
+Americas,3,Cardiovascular diseases,Non-rheumatic degenerative mitral valve disease,0.0,0.0001,0.0001,0.0
+Americas,3,Cardiovascular diseases,Alcoholic cardiomyopathy,0.0,0.0,0.0,0.0
+Americas,3,Cardiovascular diseases,Rheumatic heart disease,0.0,0.0,0.0,0.0
+Americas,3,Cardiovascular diseases,Endocarditis,0.0,0.0,0.0,0.0
+Americas,3,Cardiovascular diseases,Myocarditis,0.0,0.0,0.0,0.0
+Americas,3,Cardiovascular diseases,Pulmonary Arterial Hypertension,0.0,0.0,0.0,0.0
+Americas,3,Cardiovascular diseases,Other non-rheumatic valve diseases,0.0,0.0,0.0,0.0
+Americas,3,Chronic respiratory diseases,Chronic obstructive pulmonary disease,0.0,0.0067,0.0067,0.0
+Americas,3,Chronic respiratory diseases,Interstitial lung disease and pulmonary sarcoidosis,0.0,0.0004,0.0004,0.0
+Americas,3,Chronic respiratory diseases,Asbestosis,0.0,0.0,0.0,0.0149
+Americas,3,Chronic respiratory diseases,Silicosis,0.0,0.0,0.0,0.0171
+Americas,3,Chronic respiratory diseases,Other pneumoconiosis,0.0,0.0,0.0,0.0148
+Americas,3,Chronic respiratory diseases,Coal workers pneumoconiosis,0.0,0.0,0.0,0.0143
+Americas,3,Diabetes and kidney diseases,Diabetes mellitus type 2,0.0,0.0018,0.0018,0.0
+Americas,3,Diabetes and kidney diseases,Chronic kidney disease due to other and unspecified causes,0.0004,0.0006,0.0003,0.5793
+Americas,3,Diabetes and kidney diseases,Chronic kidney disease due to diabetes mellitus type 2,0.0001,0.0005,0.0004,0.1658
+Americas,3,Diabetes and kidney diseases,Chronic kidney disease due to hypertension,0.0002,0.0003,0.0001,0.5446
+Americas,3,Diabetes and kidney diseases,Chronic kidney disease due to glomerulonephritis,0.0003,0.0003,0.0,0.955
+Americas,3,Diabetes and kidney diseases,Diabetes mellitus type 1,0.0,0.0001,0.0001,0.0
+Americas,3,Diabetes and kidney diseases,Chronic kidney disease due to diabetes mellitus type 1,0.0001,0.0001,0.0,0.915
+Americas,3,Digestive diseases,Ulcerative colitis,0.0,0.0004,0.0004,0.0
+Americas,3,Digestive diseases,Crohn's disease,0.0,0.0003,0.0003,0.0
+Americas,3,Digestive diseases,"Inguinal, femoral, and abdominal hernia",0.0,0.0003,0.0003,0.0
+Americas,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to hepatitis C,0.0,0.0001,0.0001,0.0
+Americas,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to alcohol use,0.0,0.0001,0.0001,0.0
+Americas,3,Digestive diseases,Pancreatitis,0.0,0.0001,0.0001,0.0
+Americas,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to other causes,0.0,0.0001,0.0001,0.0
+Americas,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to NAFLD,0.0,0.0,0.0,0.0
+Americas,3,Digestive diseases,Vascular intestinal disorders,0.0,0.0,0.0,0.0
+Americas,3,Digestive diseases,Gastritis and duodenitis,0.0,0.0,0.0,0.0
+Americas,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to hepatitis B,0.0,0.0,0.0,0.0
+Americas,3,Digestive diseases,Peptic ulcer disease,0.0,0.0,0.0,0.0
+Americas,3,Enteric infections,Diarrheal diseases,0.0,0.0,0.0,0.0
+Americas,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS resulting in other diseases,0.0001,0.0002,0.0002,0.2338
+Americas,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Drug-susceptible Tuberculosis,0.0,0.0,0.0,0.0
+Americas,3,HIV/AIDS and sexually transmitted infections,Syphilis,0.0,0.0,0.0,0.1084
+Americas,3,HIV/AIDS and sexually transmitted infections,Other sexually transmitted infections,0.0,0.0,0.0,0.0
+Americas,3,HIV/AIDS and sexually transmitted infections,Chlamydial infection,0.0,0.0,0.0,0.0
+Americas,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Multidrug-resistant Tuberculosis without extensive drug resistance,0.0,0.0,0.0,0.0
+Americas,3,HIV/AIDS and sexually transmitted infections,Gonococcal infection,0.0,0.0,0.0,0.0
+Americas,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Extensively drug-resistant Tuberculosis,0.0,0.0,0.0,0.0
+Americas,3,Injuries,injuries,0.0,0.0081,0.0081,0.0
+Americas,3,Maternal and neonatal disorders,Neonatal preterm birth,0.0009,0.0026,0.0018,0.3299
+Americas,3,Maternal and neonatal disorders,Neonatal encephalopathy due to birth asphyxia and trauma,0.0004,0.001,0.0007,0.3606
+Americas,3,Maternal and neonatal disorders,Neonatal sepsis and other neonatal infections,0.0002,0.0004,0.0003,0.3663
+Americas,3,Maternal and neonatal disorders,Hemolytic disease and other neonatal jaundice,0.0001,0.0002,0.0001,0.3642
+Americas,3,Maternal and neonatal disorders,Maternal obstructed labor and uterine rupture,0.0,0.0,0.0,
+Americas,3,Mental disorders,Anxiety disorders,0.0,0.013,0.013,0.0
+Americas,3,Mental disorders,Major depressive disorder,0.0042,0.0119,0.0076,0.3559
+Americas,3,Mental disorders,Bipolar disorder,0.0,0.0044,0.0044,0.0
+Americas,3,Mental disorders,Schizophrenia,0.0031,0.0031,0.0,1.0
+Americas,3,Mental disorders,Autism spectrum disorders,0.0,0.0026,0.0026,0.0
+Americas,3,Mental disorders,Conduct disorder,0.0,0.0025,0.0025,0.0
+Americas,3,Mental disorders,Bulimia nervosa,0.0,0.0025,0.0025,0.0
+Americas,3,Mental disorders,Other mental disorders,0.0,0.0014,0.0014,0.0
+Americas,3,Mental disorders,Anorexia nervosa,0.0,0.0008,0.0008,0.0
+Americas,3,Mental disorders,Idiopathic developmental intellectual disability,0.0,0.0002,0.0002,0.0
+Americas,3,Musculoskeletal disorders,Low back pain,0.0,0.029,0.029,0.0
+Americas,3,Musculoskeletal disorders,Other musculoskeletal disorders,0.0072,0.0205,0.0133,0.3498
+Americas,3,Musculoskeletal disorders,Neck pain,0.0,0.0059,0.0059,0.0
+Americas,3,Musculoskeletal disorders,Osteoarthritis knee,0.0,0.0056,0.0056,0.0
+Americas,3,Musculoskeletal disorders,Osteoarthritis hand,0.0,0.004,0.004,0.0
+Americas,3,Musculoskeletal disorders,Gout,0.0002,0.0012,0.001,0.1291
+Americas,3,Musculoskeletal disorders,Osteoarthritis other,0.0,0.0009,0.0009,0.0
+Americas,3,Musculoskeletal disorders,Osteoarthritis hip,0.0,0.0008,0.0008,0.0
+Americas,3,Musculoskeletal disorders,Rheumatoid arthritis,0.0003,0.0007,0.0005,0.3839
+Americas,3,Neglected tropical diseases and malaria,Cysticercosis,0.0,0.0015,0.0015,0.0
+Americas,3,Neglected tropical diseases and malaria,Dengue,0.0,0.0007,0.0007,0.0
+Americas,3,Neglected tropical diseases and malaria,Chagas disease,0.0,0.0001,0.0001,0.0
+Americas,3,Neglected tropical diseases and malaria,Food-borne trematodiases,0.0,0.0,0.0,0.0
+Americas,3,Neglected tropical diseases and malaria,Trachoma,0.0,0.0,0.0,0.0
+Americas,3,Neglected tropical diseases and malaria,Onchocerciasis,0.0,0.0,0.0,0.0
+Americas,3,Neglected tropical diseases and malaria,Malaria,0.0,0.0,0.0,0.38
+Americas,3,Neglected tropical diseases and malaria,Cystic echinococcosis,0.0,0.0,0.0,0.0
+Americas,3,Neglected tropical diseases and malaria,Schistosomiasis,0.0,0.0,0.0,0.0
+Americas,3,Neglected tropical diseases and malaria,Zika virus,0.0,0.0,0.0,0.857
+Americas,3,Neglected tropical diseases and malaria,African trypanosomiasis,0.0,0.0,0.0,
+Americas,3,Neglected tropical diseases and malaria,Ebola,0.0,0.0,0.0,
+Americas,3,Neoplasms,Prostate cancer,0.0,0.0007,0.0007,0.0
+Americas,3,Neoplasms,Breast cancer,0.0,0.0003,0.0002,0.0441
+Americas,3,Neoplasms,Colon and rectum cancer,0.0,0.0002,0.0002,0.0
+Americas,3,Neoplasms,"Tracheal, bronchus, and lung cancer",0.0,0.0002,0.0002,0.0
+Americas,3,Neoplasms,Other non-Hodgkin lymphoma,0.0,0.0001,0.0001,0.0489
+Americas,3,Neoplasms,Bladder cancer,0.0,0.0001,0.0001,0.0351
+Americas,3,Neoplasms,Uterine cancer,0.0,0.0001,0.0001,0.0408
+Americas,3,Neoplasms,Non-melanoma skin cancer (squamous-cell carcinoma),0.0,0.0001,0.0001,0.0
+Americas,3,Neoplasms,Cervical cancer,0.0,0.0001,0.0001,0.0696
+Americas,3,Neoplasms,Ovarian cancer,0.0,0.0001,0.0001,0.0623
+Americas,3,Neoplasms,Stomach cancer,0.0,0.0001,0.0001,0.0
+Americas,3,Neoplasms,Kidney cancer,0.0,0.0001,0.0001,0.0796
+Americas,3,Neoplasms,Pancreatic cancer,0.0,0.0001,0.0,0.1601
+Americas,3,Neoplasms,Malignant skin melanoma,0.0,0.0,0.0,0.0642
+Americas,3,Neoplasms,Chronic lymphoid leukemia,0.0,0.0,0.0,0.0292
+Americas,3,Neoplasms,Brain and central nervous system cancer,0.0,0.0,0.0,0.1108
+Americas,3,Neoplasms,Lip and oral cavity cancer,0.0,0.0,0.0,0.0763
+Americas,3,Neoplasms,Multiple myeloma,0.0,0.0,0.0,0.0702
+Americas,3,Neoplasms,Other malignant neoplasms,0.0,0.0,0.0,0.0982
+Americas,3,Neoplasms,Esophageal cancer,0.0,0.0,0.0,0.1343
+Americas,3,Neoplasms,Larynx cancer,0.0,0.0,0.0,0.0658
+Americas,3,Neoplasms,Soft tissue and other extraosseous sarcomas,0.0,0.0,0.0,0.0522
+Americas,3,Neoplasms,Acute myeloid leukemia,0.0,0.0,0.0,0.1405
+Americas,3,Neoplasms,Thyroid cancer,0.0,0.0,0.0,0.0415
+Americas,3,Neoplasms,Gallbladder and biliary tract cancer,0.0,0.0,0.0,0.1457
+Americas,3,Neoplasms,Other pharynx cancer,0.0,0.0,0.0,0.0978
+Americas,3,Neoplasms,Malignant neoplasm of bone and articular cartilage,0.0,0.0,0.0,0.0297
+Americas,3,Neoplasms,Testicular cancer,0.0,0.0,0.0,0.0585
+Americas,3,Neoplasms,Acute lymphoid leukemia,0.0,0.0,0.0,0.0716
+Americas,3,Neoplasms,Liver cancer due to hepatitis C,0.0,0.0,0.0,0.1559
+Americas,3,Neoplasms,Other leukemia,0.0,0.0,0.0,0.0353
+Americas,3,Neoplasms,Liver cancer due to alcohol use,0.0,0.0,0.0,0.1543
+Americas,3,Neoplasms,Hodgkin lymphoma,0.0,0.0,0.0,0.0515
+Americas,3,Neoplasms,Chronic myeloid leukemia,0.0,0.0,0.0,0.1308
+Americas,3,Neoplasms,Mesothelioma,0.0,0.0,0.0,0.1135
+Americas,3,Neoplasms,Liver cancer due to hepatitis B,0.0,0.0,0.0,0.1538
+Americas,3,Neoplasms,Burkitt lymphoma,0.0,0.0,0.0,0.0529
+Americas,3,Neoplasms,Nasopharynx cancer,0.0,0.0,0.0,0.0697
+Americas,3,Neoplasms,Liver cancer due to NASH,0.0,0.0,0.0,0.1558
+Americas,3,Neoplasms,Other eye cancers,0.0,0.0,0.0,0.0424
+Americas,3,Neoplasms,Liver cancer due to other causes,0.0,0.0,0.0,0.1537
+Americas,3,Neoplasms,Neuroblastoma and other peripheral nervous cell tumors,0.0,0.0,0.0,0.0512
+Americas,3,Neoplasms,Retinoblastoma,0.0,0.0,0.0,0.0079
+Americas,3,Neoplasms,Hepatoblastoma,0.0,0.0,0.0,0.0132
+Americas,3,Neurological disorders,Migraine,0.0,0.0173,0.0173,0.0
+Americas,3,Neurological disorders,Alzheimer's disease and other dementias,0.0,0.0051,0.0051,0.0
+Americas,3,Neurological disorders,Idiopathic epilepsy,0.0015,0.0029,0.0013,0.5306
+Americas,3,Neurological disorders,Tension-type headache,0.0,0.0017,0.0017,0.0
+Americas,3,Neurological disorders,Parkinson's disease,0.0,0.0007,0.0007,0.0
+Americas,3,Neurological disorders,Multiple sclerosis,0.0001,0.0004,0.0004,0.1526
+Americas,3,Neurological disorders,Motor neuron disease,0.0,0.0,0.0,0.1575
+Americas,3,Neurological disorders,Other neurological disorders,0.0,0.0,0.0,0.0
+Americas,3,Nutritional deficiencies,Vitamin A deficiency,0.0,0.0001,0.0001,0.0
+Americas,3,Nutritional deficiencies,Iodine deficiency,0.0,0.0,0.0,0.0
+Americas,3,Nutritional deficiencies,Protein-energy malnutrition,0.0,0.0,0.0,0.0
+Americas,3,Other infectious diseases,Meningitis,0.0,0.0001,0.0001,0.0001
+Americas,3,Other infectious diseases,Encephalitis,0.0,0.0,0.0,0.0001
+Americas,3,Other infectious diseases,Other unspecified infectious diseases,0.0,0.0,0.0,0.0
+Americas,3,Other infectious diseases,Tetanus,0.0,0.0,0.0,0.3649
+Americas,3,Other non-communicable diseases,Other gynecological diseases,0.0,0.0033,0.0033,0.0
+Americas,3,Other non-communicable diseases,Congenital musculoskeletal and limb anomalies,0.0,0.0017,0.0017,0.0
+Americas,3,Other non-communicable diseases,Endometriosis,0.0,0.0003,0.0003,0.0
+Americas,3,Other non-communicable diseases,Other chromosomal abnormalities,0.0,0.0002,0.0002,0.0321
+Americas,3,Other non-communicable diseases,Other congenital birth defects,0.0,0.0002,0.0002,0.0
+Americas,3,Other non-communicable diseases,Congenital heart anomalies,0.0,0.0002,0.0002,0.0
+Americas,3,Other non-communicable diseases,Down syndrome,0.0,0.0001,0.0001,0.0009
+Americas,3,Other non-communicable diseases,Neural tube defects,0.0,0.0001,0.0001,0.0698
+Americas,3,Other non-communicable diseases,Urogenital congenital anomalies,0.0,0.0,0.0,0.0
+Americas,3,Other non-communicable diseases,Sickle cell disorders,0.0,0.0,0.0,0.0514
+Americas,3,Other non-communicable diseases,Thyroid diseases,0.0,0.0,0.0,0.0
+Americas,3,Other non-communicable diseases,Other hemoglobinopathies and hemolytic anemias,0.0,0.0,0.0,0.0
+Americas,3,Other non-communicable diseases,Uterine fibroids,0.0,0.0,0.0,0.0
+Americas,3,Other non-communicable diseases,Digestive congenital anomalies,0.0,0.0,0.0,0.0
+Americas,3,Other non-communicable diseases,Thalassemias,0.0,0.0,0.0,0.0
+Americas,3,Other non-communicable diseases,G6PD deficiency,0.0,0.0,0.0,0.0
+Americas,3,Respiratory infections and tuberculosis,COVID-19,0.0003,0.0064,0.0062,0.0404
+Americas,3,Respiratory infections and tuberculosis,Drug-susceptible tuberculosis,0.0,0.0002,0.0002,0.0
+Americas,3,Respiratory infections and tuberculosis,Otitis media,0.0,0.0,0.0,0.0
+Americas,3,Respiratory infections and tuberculosis,Upper respiratory infections,0.0,0.0,0.0,0.0
+Americas,3,Respiratory infections and tuberculosis,Multidrug-resistant tuberculosis without extensive drug resistance,0.0,0.0,0.0,0.0
+Americas,3,Respiratory infections and tuberculosis,Lower respiratory infections,0.0,0.0,0.0,0.0
+Americas,3,Respiratory infections and tuberculosis,Extensively drug-resistant tuberculosis,0.0,0.0,0.0,0.0
+Americas,3,Sense organ diseases,Age-related and other hearing loss,0.0,0.0046,0.0046,0.0
+Americas,3,Sense organ diseases,Cataract,0.0,0.0023,0.0023,0.0
+Americas,3,Sense organ diseases,Other vision loss,0.0,0.0021,0.0021,0.0
+Americas,3,Sense organ diseases,Refraction disorders,0.0,0.0016,0.0016,0.0
+Americas,3,Sense organ diseases,Glaucoma,0.0,0.0006,0.0006,0.0
+Americas,3,Sense organ diseases,Age-related macular degeneration,0.0,0.0002,0.0002,0.0
+Americas,3,Skin and subcutaneous diseases,Urticaria,0.0,0.0018,0.0018,0.0
+Americas,3,Skin and subcutaneous diseases,Psoriasis,0.0007,0.0017,0.001,0.4358
+Americas,3,Skin and subcutaneous diseases,Atopic dermatitis,0.0002,0.0015,0.0013,0.1608
+Americas,3,Skin and subcutaneous diseases,Contact dermatitis,0.0,0.001,0.001,0.0
+Americas,3,Skin and subcutaneous diseases,Acne vulgaris,0.0,0.0004,0.0004,0.0
+Americas,3,Substance use disorders,Opioid use disorders,0.0034,0.0062,0.0028,0.5519
+Americas,3,Substance use disorders,Alcohol use disorders,0.0011,0.0028,0.0017,0.3914
+Americas,3,Substance use disorders,Cocaine use disorders,0.0,0.0006,0.0006,0.0316
+Americas,3,Substance use disorders,Amphetamine use disorders,0.0,0.0004,0.0004,0.0308
+Americas,3,Substance use disorders,Cannabis use disorders,0.0,0.0003,0.0003,0.0
+Eastern Mediterranean,3,Cardiovascular diseases,Other cardiovascular and circulatory diseases,0.0,0.0018,0.0018,0.0
+Eastern Mediterranean,3,Cardiovascular diseases,Ischemic stroke,0.0004,0.0018,0.0013,0.2461
+Eastern Mediterranean,3,Cardiovascular diseases,Atrial fibrillation and flutter,0.0,0.0009,0.0009,0.0
+Eastern Mediterranean,3,Cardiovascular diseases,Ischemic heart disease,0.0,0.0005,0.0005,0.0
+Eastern Mediterranean,3,Cardiovascular diseases,Intracerebral hemorrhage,0.0001,0.0004,0.0003,0.296
+Eastern Mediterranean,3,Cardiovascular diseases,Hypertensive heart disease,0.0,0.0004,0.0004,0.0
+Eastern Mediterranean,3,Cardiovascular diseases,Subarachnoid hemorrhage,0.0001,0.0002,0.0001,0.2768
+Eastern Mediterranean,3,Cardiovascular diseases,Other cardiomyopathy,0.0,0.0001,0.0001,0.0
+Eastern Mediterranean,3,Cardiovascular diseases,Rheumatic heart disease,0.0,0.0001,0.0001,0.0
+Eastern Mediterranean,3,Cardiovascular diseases,Non-rheumatic degenerative mitral valve disease,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Cardiovascular diseases,Non-rheumatic calcific aortic valve disease,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Cardiovascular diseases,Myocarditis,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Cardiovascular diseases,Endocarditis,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Cardiovascular diseases,Pulmonary Arterial Hypertension,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Cardiovascular diseases,Alcoholic cardiomyopathy,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Cardiovascular diseases,Other non-rheumatic valve diseases,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Chronic respiratory diseases,Chronic obstructive pulmonary disease,0.0,0.0039,0.0039,0.0
+Eastern Mediterranean,3,Chronic respiratory diseases,Interstitial lung disease and pulmonary sarcoidosis,0.0,0.0001,0.0001,0.0
+Eastern Mediterranean,3,Chronic respiratory diseases,Other pneumoconiosis,0.0,0.0,0.0,0.0134
+Eastern Mediterranean,3,Chronic respiratory diseases,Silicosis,0.0,0.0,0.0,0.0113
+Eastern Mediterranean,3,Chronic respiratory diseases,Asbestosis,0.0,0.0,0.0,0.0115
+Eastern Mediterranean,3,Chronic respiratory diseases,Coal workers pneumoconiosis,0.0,0.0,0.0,0.017
+Eastern Mediterranean,3,Diabetes and kidney diseases,Diabetes mellitus type 2,0.0,0.001,0.001,0.0
+Eastern Mediterranean,3,Diabetes and kidney diseases,Chronic kidney disease due to other and unspecified causes,0.0002,0.0004,0.0002,0.5565
+Eastern Mediterranean,3,Diabetes and kidney diseases,Chronic kidney disease due to diabetes mellitus type 2,0.0001,0.0002,0.0001,0.295
+Eastern Mediterranean,3,Diabetes and kidney diseases,Chronic kidney disease due to hypertension,0.0001,0.0001,0.0001,0.6315
+Eastern Mediterranean,3,Diabetes and kidney diseases,Chronic kidney disease due to glomerulonephritis,0.0001,0.0001,0.0,0.8804
+Eastern Mediterranean,3,Diabetes and kidney diseases,Chronic kidney disease due to diabetes mellitus type 1,0.0,0.0,0.0,0.7895
+Eastern Mediterranean,3,Diabetes and kidney diseases,Diabetes mellitus type 1,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Digestive diseases,"Inguinal, femoral, and abdominal hernia",0.0,0.0004,0.0004,0.0
+Eastern Mediterranean,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to other causes,0.0,0.0002,0.0002,0.0
+Eastern Mediterranean,3,Digestive diseases,Ulcerative colitis,0.0,0.0001,0.0001,0.0
+Eastern Mediterranean,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to hepatitis C,0.0,0.0001,0.0001,0.0
+Eastern Mediterranean,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to hepatitis B,0.0,0.0001,0.0001,0.0
+Eastern Mediterranean,3,Digestive diseases,Crohn's disease,0.0,0.0001,0.0001,0.0
+Eastern Mediterranean,3,Digestive diseases,Pancreatitis,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Digestive diseases,Peptic ulcer disease,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Digestive diseases,Gastritis and duodenitis,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to NAFLD,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to alcohol use,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Digestive diseases,Vascular intestinal disorders,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Enteric infections,Diarrheal diseases,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS resulting in other diseases,0.0,0.0001,0.0001,0.3417
+Eastern Mediterranean,3,HIV/AIDS and sexually transmitted infections,Syphilis,0.0,0.0,0.0,0.0134
+Eastern Mediterranean,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Drug-susceptible Tuberculosis,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,HIV/AIDS and sexually transmitted infections,Other sexually transmitted infections,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,HIV/AIDS and sexually transmitted infections,Chlamydial infection,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Multidrug-resistant Tuberculosis without extensive drug resistance,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,HIV/AIDS and sexually transmitted infections,Gonococcal infection,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Extensively drug-resistant Tuberculosis,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Injuries,injuries,0.0,0.0085,0.0085,0.0
+Eastern Mediterranean,3,Maternal and neonatal disorders,Neonatal preterm birth,0.0012,0.0042,0.003,0.2773
+Eastern Mediterranean,3,Maternal and neonatal disorders,Neonatal encephalopathy due to birth asphyxia and trauma,0.0003,0.0008,0.0005,0.3453
+Eastern Mediterranean,3,Maternal and neonatal disorders,Neonatal sepsis and other neonatal infections,0.0002,0.0007,0.0005,0.3442
+Eastern Mediterranean,3,Maternal and neonatal disorders,Hemolytic disease and other neonatal jaundice,0.0001,0.0004,0.0002,0.3364
+Eastern Mediterranean,3,Maternal and neonatal disorders,Maternal obstructed labor and uterine rupture,0.0,0.0001,0.0001,0.0
+Eastern Mediterranean,3,Mental disorders,Major depressive disorder,0.0042,0.0117,0.0076,0.3561
+Eastern Mediterranean,3,Mental disorders,Anxiety disorders,0.0,0.0095,0.0095,0.0
+Eastern Mediterranean,3,Mental disorders,Conduct disorder,0.0,0.0032,0.0032,0.0
+Eastern Mediterranean,3,Mental disorders,Bipolar disorder,0.0,0.003,0.003,0.0
+Eastern Mediterranean,3,Mental disorders,Autism spectrum disorders,0.0,0.0025,0.0025,0.0
+Eastern Mediterranean,3,Mental disorders,Schizophrenia,0.0024,0.0024,0.0,1.0
+Eastern Mediterranean,3,Mental disorders,Bulimia nervosa,0.0,0.0018,0.0018,0.0
+Eastern Mediterranean,3,Mental disorders,Other mental disorders,0.0,0.001,0.001,0.0
+Eastern Mediterranean,3,Mental disorders,Idiopathic developmental intellectual disability,0.0,0.0006,0.0006,0.0
+Eastern Mediterranean,3,Mental disorders,Anorexia nervosa,0.0,0.0004,0.0004,0.0
+Eastern Mediterranean,3,Musculoskeletal disorders,Low back pain,0.0,0.0199,0.0199,0.0
+Eastern Mediterranean,3,Musculoskeletal disorders,Other musculoskeletal disorders,0.003,0.0087,0.0057,0.3496
+Eastern Mediterranean,3,Musculoskeletal disorders,Neck pain,0.0,0.0057,0.0057,0.0
+Eastern Mediterranean,3,Musculoskeletal disorders,Osteoarthritis knee,0.0,0.0022,0.0022,0.0
+Eastern Mediterranean,3,Musculoskeletal disorders,Osteoarthritis hand,0.0,0.0005,0.0005,0.0
+Eastern Mediterranean,3,Musculoskeletal disorders,Osteoarthritis other,0.0,0.0004,0.0004,0.0
+Eastern Mediterranean,3,Musculoskeletal disorders,Gout,0.0,0.0004,0.0003,0.1291
+Eastern Mediterranean,3,Musculoskeletal disorders,Rheumatoid arthritis,0.0001,0.0002,0.0001,0.3849
+Eastern Mediterranean,3,Musculoskeletal disorders,Osteoarthritis hip,0.0,0.0002,0.0002,0.0
+Eastern Mediterranean,3,Neglected tropical diseases and malaria,Trachoma,0.0,0.0002,0.0002,0.0
+Eastern Mediterranean,3,Neglected tropical diseases and malaria,Dengue,0.0,0.0001,0.0001,0.0
+Eastern Mediterranean,3,Neglected tropical diseases and malaria,Onchocerciasis,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Neglected tropical diseases and malaria,Malaria,0.0,0.0,0.0,0.372
+Eastern Mediterranean,3,Neglected tropical diseases and malaria,Cysticercosis,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Neglected tropical diseases and malaria,Cystic echinococcosis,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Neglected tropical diseases and malaria,Schistosomiasis,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Neglected tropical diseases and malaria,African trypanosomiasis,0.0,0.0,0.0,
+Eastern Mediterranean,3,Neglected tropical diseases and malaria,Zika virus,0.0,0.0,0.0,
+Eastern Mediterranean,3,Neglected tropical diseases and malaria,Chagas disease,0.0,0.0,0.0,
+Eastern Mediterranean,3,Neglected tropical diseases and malaria,Ebola,0.0,0.0,0.0,
+Eastern Mediterranean,3,Neglected tropical diseases and malaria,Food-borne trematodiases,0.0,0.0,0.0,
+Eastern Mediterranean,3,Neoplasms,Breast cancer,0.0,0.0001,0.0001,0.0469
+Eastern Mediterranean,3,Neoplasms,Prostate cancer,0.0,0.0001,0.0001,0.0
+Eastern Mediterranean,3,Neoplasms,Bladder cancer,0.0,0.0,0.0,0.0386
+Eastern Mediterranean,3,Neoplasms,Colon and rectum cancer,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Neoplasms,"Tracheal, bronchus, and lung cancer",0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Neoplasms,Ovarian cancer,0.0,0.0,0.0,0.0657
+Eastern Mediterranean,3,Neoplasms,Other non-Hodgkin lymphoma,0.0,0.0,0.0,0.076
+Eastern Mediterranean,3,Neoplasms,Stomach cancer,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Neoplasms,Lip and oral cavity cancer,0.0,0.0,0.0,0.114
+Eastern Mediterranean,3,Neoplasms,Cervical cancer,0.0,0.0,0.0,0.0933
+Eastern Mediterranean,3,Neoplasms,Brain and central nervous system cancer,0.0,0.0,0.0,0.1222
+Eastern Mediterranean,3,Neoplasms,Uterine cancer,0.0,0.0,0.0,0.0481
+Eastern Mediterranean,3,Neoplasms,Malignant neoplasm of bone and articular cartilage,0.0,0.0,0.0,0.0284
+Eastern Mediterranean,3,Neoplasms,Larynx cancer,0.0,0.0,0.0,0.0769
+Eastern Mediterranean,3,Neoplasms,Esophageal cancer,0.0,0.0,0.0,0.1351
+Eastern Mediterranean,3,Neoplasms,Other malignant neoplasms,0.0,0.0,0.0,0.1338
+Eastern Mediterranean,3,Neoplasms,Thyroid cancer,0.0,0.0,0.0,0.0361
+Eastern Mediterranean,3,Neoplasms,Pancreatic cancer,0.0,0.0,0.0,0.1611
+Eastern Mediterranean,3,Neoplasms,Acute lymphoid leukemia,0.0,0.0,0.0,0.0964
+Eastern Mediterranean,3,Neoplasms,Kidney cancer,0.0,0.0,0.0,0.0737
+Eastern Mediterranean,3,Neoplasms,Liver cancer due to hepatitis C,0.0,0.0,0.0,0.1587
+Eastern Mediterranean,3,Neoplasms,Soft tissue and other extraosseous sarcomas,0.0,0.0,0.0,0.0507
+Eastern Mediterranean,3,Neoplasms,Acute myeloid leukemia,0.0,0.0,0.0,0.1389
+Eastern Mediterranean,3,Neoplasms,Multiple myeloma,0.0,0.0,0.0,0.0769
+Eastern Mediterranean,3,Neoplasms,Chronic lymphoid leukemia,0.0,0.0,0.0,0.0404
+Eastern Mediterranean,3,Neoplasms,Testicular cancer,0.0,0.0,0.0,0.0526
+Eastern Mediterranean,3,Neoplasms,Other leukemia,0.0,0.0,0.0,0.0431
+Eastern Mediterranean,3,Neoplasms,Hodgkin lymphoma,0.0,0.0,0.0,0.0955
+Eastern Mediterranean,3,Neoplasms,Gallbladder and biliary tract cancer,0.0,0.0,0.0,0.156
+Eastern Mediterranean,3,Neoplasms,Other pharynx cancer,0.0,0.0,0.0,0.1586
+Eastern Mediterranean,3,Neoplasms,Nasopharynx cancer,0.0,0.0,0.0,0.0938
+Eastern Mediterranean,3,Neoplasms,Liver cancer due to hepatitis B,0.0,0.0,0.0,0.1565
+Eastern Mediterranean,3,Neoplasms,Malignant skin melanoma,0.0,0.0,0.0,0.105
+Eastern Mediterranean,3,Neoplasms,Chronic myeloid leukemia,0.0,0.0,0.0,0.1503
+Eastern Mediterranean,3,Neoplasms,Liver cancer due to NASH,0.0,0.0,0.0,0.1581
+Eastern Mediterranean,3,Neoplasms,Liver cancer due to alcohol use,0.0,0.0,0.0,0.1582
+Eastern Mediterranean,3,Neoplasms,Neuroblastoma and other peripheral nervous cell tumors,0.0,0.0,0.0,0.0176
+Eastern Mediterranean,3,Neoplasms,Other eye cancers,0.0,0.0,0.0,0.0395
+Eastern Mediterranean,3,Neoplasms,Liver cancer due to other causes,0.0,0.0,0.0,0.1568
+Eastern Mediterranean,3,Neoplasms,Mesothelioma,0.0,0.0,0.0,0.1101
+Eastern Mediterranean,3,Neoplasms,Hepatoblastoma,0.0,0.0,0.0,0.0245
+Eastern Mediterranean,3,Neoplasms,Retinoblastoma,0.0,0.0,0.0,0.009
+Eastern Mediterranean,3,Neoplasms,Burkitt lymphoma,0.0,0.0,0.0,0.0392
+Eastern Mediterranean,3,Neoplasms,Non-melanoma skin cancer (squamous-cell carcinoma),0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Neurological disorders,Migraine,0.0,0.0162,0.0162,0.0
+Eastern Mediterranean,3,Neurological disorders,Idiopathic epilepsy,0.0013,0.0025,0.0011,0.5396
+Eastern Mediterranean,3,Neurological disorders,Tension-type headache,0.0,0.0017,0.0017,0.0
+Eastern Mediterranean,3,Neurological disorders,Alzheimer's disease and other dementias,0.0,0.0015,0.0015,0.0
+Eastern Mediterranean,3,Neurological disorders,Parkinson's disease,0.0,0.0002,0.0002,0.0
+Eastern Mediterranean,3,Neurological disorders,Multiple sclerosis,0.0,0.0002,0.0002,0.1525
+Eastern Mediterranean,3,Neurological disorders,Motor neuron disease,0.0,0.0,0.0,0.1575
+Eastern Mediterranean,3,Neurological disorders,Other neurological disorders,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Nutritional deficiencies,Iodine deficiency,0.0,0.0003,0.0003,0.0
+Eastern Mediterranean,3,Nutritional deficiencies,Vitamin A deficiency,0.0,0.0003,0.0003,0.0
+Eastern Mediterranean,3,Nutritional deficiencies,Protein-energy malnutrition,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Other infectious diseases,Meningitis,0.0,0.0003,0.0002,0.0303
+Eastern Mediterranean,3,Other infectious diseases,Encephalitis,0.0,0.0002,0.0002,0.0371
+Eastern Mediterranean,3,Other infectious diseases,Other unspecified infectious diseases,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Other infectious diseases,Tetanus,0.0,0.0,0.0,0.3361
+Eastern Mediterranean,3,Other non-communicable diseases,Other gynecological diseases,0.0,0.0076,0.0076,0.0
+Eastern Mediterranean,3,Other non-communicable diseases,Congenital musculoskeletal and limb anomalies,0.0,0.0017,0.0017,0.0
+Eastern Mediterranean,3,Other non-communicable diseases,Endometriosis,0.0,0.0006,0.0006,0.0
+Eastern Mediterranean,3,Other non-communicable diseases,Other congenital birth defects,0.0,0.0006,0.0006,0.0
+Eastern Mediterranean,3,Other non-communicable diseases,Other chromosomal abnormalities,0.0,0.0002,0.0002,0.037
+Eastern Mediterranean,3,Other non-communicable diseases,Congenital heart anomalies,0.0,0.0002,0.0002,0.0
+Eastern Mediterranean,3,Other non-communicable diseases,Neural tube defects,0.0,0.0001,0.0001,0.0718
+Eastern Mediterranean,3,Other non-communicable diseases,Urogenital congenital anomalies,0.0,0.0001,0.0001,0.0
+Eastern Mediterranean,3,Other non-communicable diseases,Sickle cell disorders,0.0,0.0001,0.0001,0.0551
+Eastern Mediterranean,3,Other non-communicable diseases,Down syndrome,0.0,0.0001,0.0001,0.0002
+Eastern Mediterranean,3,Other non-communicable diseases,Thalassemias,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Other non-communicable diseases,Uterine fibroids,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Other non-communicable diseases,Other hemoglobinopathies and hemolytic anemias,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Other non-communicable diseases,G6PD deficiency,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Other non-communicable diseases,Thyroid diseases,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Other non-communicable diseases,Digestive congenital anomalies,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Respiratory infections and tuberculosis,COVID-19,0.0003,0.0074,0.0071,0.0393
+Eastern Mediterranean,3,Respiratory infections and tuberculosis,Drug-susceptible tuberculosis,0.0,0.0011,0.0011,0.0
+Eastern Mediterranean,3,Respiratory infections and tuberculosis,Multidrug-resistant tuberculosis without extensive drug resistance,0.0,0.0001,0.0001,0.0
+Eastern Mediterranean,3,Respiratory infections and tuberculosis,Otitis media,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Respiratory infections and tuberculosis,Upper respiratory infections,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Respiratory infections and tuberculosis,Lower respiratory infections,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Respiratory infections and tuberculosis,Extensively drug-resistant tuberculosis,0.0,0.0,0.0,0.0
+Eastern Mediterranean,3,Sense organ diseases,Cataract,0.0,0.0041,0.0041,0.0
+Eastern Mediterranean,3,Sense organ diseases,Age-related and other hearing loss,0.0,0.0037,0.0037,0.0
+Eastern Mediterranean,3,Sense organ diseases,Other vision loss,0.0,0.0018,0.0018,0.0
+Eastern Mediterranean,3,Sense organ diseases,Refraction disorders,0.0,0.0018,0.0018,0.0
+Eastern Mediterranean,3,Sense organ diseases,Glaucoma,0.0,0.0006,0.0006,0.0
+Eastern Mediterranean,3,Sense organ diseases,Age-related macular degeneration,0.0,0.0004,0.0004,0.0
+Eastern Mediterranean,3,Skin and subcutaneous diseases,Urticaria,0.0,0.0024,0.0024,0.0
+Eastern Mediterranean,3,Skin and subcutaneous diseases,Atopic dermatitis,0.0001,0.0009,0.0008,0.1611
+Eastern Mediterranean,3,Skin and subcutaneous diseases,Psoriasis,0.0003,0.0008,0.0004,0.4359
+Eastern Mediterranean,3,Skin and subcutaneous diseases,Contact dermatitis,0.0,0.0007,0.0007,0.0
+Eastern Mediterranean,3,Skin and subcutaneous diseases,Acne vulgaris,0.0,0.0005,0.0005,0.0
+Eastern Mediterranean,3,Substance use disorders,Opioid use disorders,0.0009,0.0016,0.0007,0.5517
+Eastern Mediterranean,3,Substance use disorders,Alcohol use disorders,0.0004,0.0009,0.0006,0.3884
+Eastern Mediterranean,3,Substance use disorders,Cannabis use disorders,0.0,0.0001,0.0001,0.0
+Eastern Mediterranean,3,Substance use disorders,Amphetamine use disorders,0.0,0.0001,0.0001,0.0111
+Eastern Mediterranean,3,Substance use disorders,Cocaine use disorders,0.0,0.0,0.0,0.0554
+Europe,3,Cardiovascular diseases,Other cardiovascular and circulatory diseases,0.0,0.0052,0.0052,0.0
+Europe,3,Cardiovascular diseases,Atrial fibrillation and flutter,0.0,0.0051,0.0051,0.0
+Europe,3,Cardiovascular diseases,Ischemic stroke,0.0011,0.0049,0.0038,0.2166
+Europe,3,Cardiovascular diseases,Ischemic heart disease,0.0,0.0015,0.0015,0.0
+Europe,3,Cardiovascular diseases,Hypertensive heart disease,0.0,0.0007,0.0007,0.0
+Europe,3,Cardiovascular diseases,Intracerebral hemorrhage,0.0002,0.0006,0.0005,0.2625
+Europe,3,Cardiovascular diseases,Subarachnoid hemorrhage,0.0001,0.0004,0.0003,0.234
+Europe,3,Cardiovascular diseases,Other cardiomyopathy,0.0,0.0003,0.0003,0.0
+Europe,3,Cardiovascular diseases,Non-rheumatic calcific aortic valve disease,0.0,0.0002,0.0002,0.0
+Europe,3,Cardiovascular diseases,Non-rheumatic degenerative mitral valve disease,0.0,0.0002,0.0002,0.0
+Europe,3,Cardiovascular diseases,Alcoholic cardiomyopathy,0.0,0.0001,0.0001,0.0
+Europe,3,Cardiovascular diseases,Rheumatic heart disease,0.0,0.0001,0.0001,0.0
+Europe,3,Cardiovascular diseases,Endocarditis,0.0,0.0,0.0,0.0
+Europe,3,Cardiovascular diseases,Pulmonary Arterial Hypertension,0.0,0.0,0.0,0.0
+Europe,3,Cardiovascular diseases,Myocarditis,0.0,0.0,0.0,0.0
+Europe,3,Cardiovascular diseases,Other non-rheumatic valve diseases,0.0,0.0,0.0,0.0
+Europe,3,Chronic respiratory diseases,Chronic obstructive pulmonary disease,0.0,0.0059,0.0059,0.0
+Europe,3,Chronic respiratory diseases,Interstitial lung disease and pulmonary sarcoidosis,0.0,0.0002,0.0002,0.0
+Europe,3,Chronic respiratory diseases,Asbestosis,0.0,0.0,0.0,0.0396
+Europe,3,Chronic respiratory diseases,Silicosis,0.0,0.0,0.0,0.0472
+Europe,3,Chronic respiratory diseases,Other pneumoconiosis,0.0,0.0,0.0,0.0084
+Europe,3,Chronic respiratory diseases,Coal workers pneumoconiosis,0.0,0.0,0.0,0.0265
+Europe,3,Diabetes and kidney diseases,Diabetes mellitus type 2,0.0,0.0012,0.0012,0.0
+Europe,3,Diabetes and kidney diseases,Chronic kidney disease due to other and unspecified causes,0.0005,0.0007,0.0003,0.6444
+Europe,3,Diabetes and kidney diseases,Chronic kidney disease due to diabetes mellitus type 2,0.0001,0.0005,0.0004,0.1319
+Europe,3,Diabetes and kidney diseases,Chronic kidney disease due to hypertension,0.0001,0.0003,0.0002,0.3723
+Europe,3,Diabetes and kidney diseases,Chronic kidney disease due to glomerulonephritis,0.0002,0.0002,0.0,0.9734
+Europe,3,Diabetes and kidney diseases,Diabetes mellitus type 1,0.0,0.0001,0.0001,0.0
+Europe,3,Diabetes and kidney diseases,Chronic kidney disease due to diabetes mellitus type 1,0.0001,0.0001,0.0,0.9098
+Europe,3,Digestive diseases,Ulcerative colitis,0.0,0.0005,0.0005,0.0
+Europe,3,Digestive diseases,Pancreatitis,0.0,0.0004,0.0004,0.0
+Europe,3,Digestive diseases,Crohn's disease,0.0,0.0004,0.0004,0.0
+Europe,3,Digestive diseases,"Inguinal, femoral, and abdominal hernia",0.0,0.0003,0.0003,0.0
+Europe,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to alcohol use,0.0,0.0002,0.0002,0.0
+Europe,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to other causes,0.0,0.0001,0.0001,0.0
+Europe,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to hepatitis C,0.0,0.0001,0.0001,0.0
+Europe,3,Digestive diseases,Vascular intestinal disorders,0.0,0.0001,0.0001,0.0
+Europe,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to NAFLD,0.0,0.0001,0.0001,0.0
+Europe,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to hepatitis B,0.0,0.0001,0.0001,0.0
+Europe,3,Digestive diseases,Peptic ulcer disease,0.0,0.0,0.0,0.0
+Europe,3,Digestive diseases,Gastritis and duodenitis,0.0,0.0,0.0,0.0
+Europe,3,Enteric infections,Diarrheal diseases,0.0,0.0,0.0,0.0
+Europe,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS resulting in other diseases,0.0001,0.0002,0.0002,0.252
+Europe,3,HIV/AIDS and sexually transmitted infections,Other sexually transmitted infections,0.0,0.0,0.0,0.0
+Europe,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Drug-susceptible Tuberculosis,0.0,0.0,0.0,0.0
+Europe,3,HIV/AIDS and sexually transmitted infections,Syphilis,0.0,0.0,0.0,0.2427
+Europe,3,HIV/AIDS and sexually transmitted infections,Chlamydial infection,0.0,0.0,0.0,0.0
+Europe,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Multidrug-resistant Tuberculosis without extensive drug resistance,0.0,0.0,0.0,0.0
+Europe,3,HIV/AIDS and sexually transmitted infections,Gonococcal infection,0.0,0.0,0.0,0.0
+Europe,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Extensively drug-resistant Tuberculosis,0.0,0.0,0.0,0.0
+Europe,3,Injuries,injuries,0.0,0.0108,0.0108,0.0
+Europe,3,Maternal and neonatal disorders,Neonatal preterm birth,0.0006,0.0019,0.0013,0.3227
+Europe,3,Maternal and neonatal disorders,Neonatal sepsis and other neonatal infections,0.0003,0.0009,0.0006,0.3533
+Europe,3,Maternal and neonatal disorders,Neonatal encephalopathy due to birth asphyxia and trauma,0.0003,0.0008,0.0005,0.3535
+Europe,3,Maternal and neonatal disorders,Hemolytic disease and other neonatal jaundice,0.0,0.0001,0.0001,0.349
+Europe,3,Maternal and neonatal disorders,Maternal obstructed labor and uterine rupture,0.0,0.0,0.0,
+Europe,3,Mental disorders,Major depressive disorder,0.0042,0.0117,0.0075,0.3562
+Europe,3,Mental disorders,Anxiety disorders,0.0,0.0105,0.0105,0.0
+Europe,3,Mental disorders,Bipolar disorder,0.0,0.0038,0.0038,0.0
+Europe,3,Mental disorders,Schizophrenia,0.0028,0.0028,0.0,1.0
+Europe,3,Mental disorders,Autism spectrum disorders,0.0,0.0028,0.0028,0.0
+Europe,3,Mental disorders,Conduct disorder,0.0,0.0022,0.0022,0.0
+Europe,3,Mental disorders,Bulimia nervosa,0.0,0.0022,0.0022,0.0
+Europe,3,Mental disorders,Other mental disorders,0.0,0.0015,0.0015,0.0
+Europe,3,Mental disorders,Anorexia nervosa,0.0,0.0007,0.0007,0.0
+Europe,3,Mental disorders,Idiopathic developmental intellectual disability,0.0,0.0002,0.0002,0.0
+Europe,3,Musculoskeletal disorders,Low back pain,0.0,0.0384,0.0384,0.0
+Europe,3,Musculoskeletal disorders,Other musculoskeletal disorders,0.003,0.0085,0.0055,0.3496
+Europe,3,Musculoskeletal disorders,Neck pain,0.0,0.0075,0.0075,0.0
+Europe,3,Musculoskeletal disorders,Osteoarthritis knee,0.0,0.0061,0.0061,0.0
+Europe,3,Musculoskeletal disorders,Osteoarthritis hand,0.0,0.0035,0.0035,0.0
+Europe,3,Musculoskeletal disorders,Osteoarthritis other,0.0,0.0012,0.0012,0.0
+Europe,3,Musculoskeletal disorders,Osteoarthritis hip,0.0,0.001,0.001,0.0
+Europe,3,Musculoskeletal disorders,Gout,0.0001,0.0009,0.0008,0.1291
+Europe,3,Musculoskeletal disorders,Rheumatoid arthritis,0.0003,0.0007,0.0005,0.384
+Europe,3,Neglected tropical diseases and malaria,Cysticercosis,0.0,0.0005,0.0005,0.0
+Europe,3,Neglected tropical diseases and malaria,Cystic echinococcosis,0.0,0.0,0.0,0.0
+Europe,3,Neglected tropical diseases and malaria,Chagas disease,0.0,0.0,0.0,0.0
+Europe,3,Neglected tropical diseases and malaria,African trypanosomiasis,0.0,0.0,0.0,
+Europe,3,Neglected tropical diseases and malaria,Malaria,0.0,0.0,0.0,
+Europe,3,Neglected tropical diseases and malaria,Zika virus,0.0,0.0,0.0,
+Europe,3,Neglected tropical diseases and malaria,Dengue,0.0,0.0,0.0,
+Europe,3,Neglected tropical diseases and malaria,Ebola,0.0,0.0,0.0,
+Europe,3,Neglected tropical diseases and malaria,Food-borne trematodiases,0.0,0.0,0.0,
+Europe,3,Neglected tropical diseases and malaria,Onchocerciasis,0.0,0.0,0.0,
+Europe,3,Neglected tropical diseases and malaria,Schistosomiasis,0.0,0.0,0.0,
+Europe,3,Neglected tropical diseases and malaria,Trachoma,0.0,0.0,0.0,
+Europe,3,Neoplasms,Prostate cancer,0.0,0.0008,0.0008,0.0
+Europe,3,Neoplasms,Colon and rectum cancer,0.0,0.0004,0.0004,0.0
+Europe,3,Neoplasms,Breast cancer,0.0,0.0003,0.0003,0.0477
+Europe,3,Neoplasms,"Tracheal, bronchus, and lung cancer",0.0,0.0003,0.0003,0.0
+Europe,3,Neoplasms,Bladder cancer,0.0,0.0002,0.0002,0.0399
+Europe,3,Neoplasms,Other non-Hodgkin lymphoma,0.0,0.0002,0.0002,0.0369
+Europe,3,Neoplasms,Uterine cancer,0.0,0.0001,0.0001,0.0451
+Europe,3,Neoplasms,Ovarian cancer,0.0,0.0001,0.0001,0.0629
+Europe,3,Neoplasms,Stomach cancer,0.0,0.0001,0.0001,0.0
+Europe,3,Neoplasms,Multiple myeloma,0.0,0.0001,0.0001,0.049
+Europe,3,Neoplasms,Chronic lymphoid leukemia,0.0,0.0001,0.0001,0.0291
+Europe,3,Neoplasms,Kidney cancer,0.0,0.0001,0.0001,0.0893
+Europe,3,Neoplasms,Pancreatic cancer,0.0,0.0001,0.0001,0.16
+Europe,3,Neoplasms,Cervical cancer,0.0,0.0001,0.0001,0.0703
+Europe,3,Neoplasms,Lip and oral cavity cancer,0.0,0.0001,0.0001,0.0845
+Europe,3,Neoplasms,Malignant skin melanoma,0.0,0.0001,0.0001,0.0661
+Europe,3,Neoplasms,Brain and central nervous system cancer,0.0,0.0001,0.0,0.1086
+Europe,3,Neoplasms,Other malignant neoplasms,0.0,0.0001,0.0,0.1137
+Europe,3,Neoplasms,Larynx cancer,0.0,0.0,0.0,0.066
+Europe,3,Neoplasms,Esophageal cancer,0.0,0.0,0.0,0.13
+Europe,3,Neoplasms,Other pharynx cancer,0.0,0.0,0.0,0.1159
+Europe,3,Neoplasms,Soft tissue and other extraosseous sarcomas,0.0,0.0,0.0,0.0538
+Europe,3,Neoplasms,Acute myeloid leukemia,0.0,0.0,0.0,0.132
+Europe,3,Neoplasms,Gallbladder and biliary tract cancer,0.0,0.0,0.0,0.1463
+Europe,3,Neoplasms,Testicular cancer,0.0,0.0,0.0,0.0268
+Europe,3,Neoplasms,Thyroid cancer,0.0,0.0,0.0,0.0423
+Europe,3,Neoplasms,Other leukemia,0.0,0.0,0.0,0.0309
+Europe,3,Neoplasms,Malignant neoplasm of bone and articular cartilage,0.0,0.0,0.0,0.0306
+Europe,3,Neoplasms,Liver cancer due to hepatitis C,0.0,0.0,0.0,0.1553
+Europe,3,Neoplasms,Liver cancer due to alcohol use,0.0,0.0,0.0,0.154
+Europe,3,Neoplasms,Hodgkin lymphoma,0.0,0.0,0.0,0.0471
+Europe,3,Neoplasms,Acute lymphoid leukemia,0.0,0.0,0.0,0.0487
+Europe,3,Neoplasms,Mesothelioma,0.0,0.0,0.0,0.1111
+Europe,3,Neoplasms,Other eye cancers,0.0,0.0,0.0,0.0434
+Europe,3,Neoplasms,Liver cancer due to hepatitis B,0.0,0.0,0.0,0.154
+Europe,3,Neoplasms,Chronic myeloid leukemia,0.0,0.0,0.0,0.1284
+Europe,3,Neoplasms,Non-melanoma skin cancer (squamous-cell carcinoma),0.0,0.0,0.0,0.0
+Europe,3,Neoplasms,Nasopharynx cancer,0.0,0.0,0.0,0.0784
+Europe,3,Neoplasms,Burkitt lymphoma,0.0,0.0,0.0,0.055
+Europe,3,Neoplasms,Liver cancer due to NASH,0.0,0.0,0.0,0.1556
+Europe,3,Neoplasms,Neuroblastoma and other peripheral nervous cell tumors,0.0,0.0,0.0,0.074
+Europe,3,Neoplasms,Liver cancer due to other causes,0.0,0.0,0.0,0.1536
+Europe,3,Neoplasms,Retinoblastoma,0.0,0.0,0.0,0.0077
+Europe,3,Neoplasms,Hepatoblastoma,0.0,0.0,0.0,0.0111
+Europe,3,Neurological disorders,Migraine,0.0,0.0197,0.0197,0.0
+Europe,3,Neurological disorders,Alzheimer's disease and other dementias,0.0,0.0076,0.0076,0.0
+Europe,3,Neurological disorders,Tension-type headache,0.0,0.0027,0.0027,0.0
+Europe,3,Neurological disorders,Idiopathic epilepsy,0.0012,0.0022,0.001,0.5334
+Europe,3,Neurological disorders,Parkinson's disease,0.0,0.0011,0.0011,0.0
+Europe,3,Neurological disorders,Multiple sclerosis,0.0001,0.0006,0.0005,0.1526
+Europe,3,Neurological disorders,Motor neuron disease,0.0,0.0,0.0,0.1575
+Europe,3,Neurological disorders,Other neurological disorders,0.0,0.0,0.0,0.0
+Europe,3,Nutritional deficiencies,Iodine deficiency,0.0,0.0,0.0,0.0
+Europe,3,Nutritional deficiencies,Vitamin A deficiency,0.0,0.0,0.0,0.0
+Europe,3,Nutritional deficiencies,Protein-energy malnutrition,0.0,0.0,0.0,0.0
+Europe,3,Other infectious diseases,Meningitis,0.0,0.0,0.0,0.0005
+Europe,3,Other infectious diseases,Encephalitis,0.0,0.0,0.0,0.0017
+Europe,3,Other infectious diseases,Other unspecified infectious diseases,0.0,0.0,0.0,0.0
+Europe,3,Other infectious diseases,Tetanus,0.0,0.0,0.0,0.3621
+Europe,3,Other non-communicable diseases,Other gynecological diseases,0.0,0.0081,0.0081,0.0
+Europe,3,Other non-communicable diseases,Congenital musculoskeletal and limb anomalies,0.0,0.0014,0.0014,0.0
+Europe,3,Other non-communicable diseases,Endometriosis,0.0,0.0005,0.0005,0.0
+Europe,3,Other non-communicable diseases,Other congenital birth defects,0.0,0.0002,0.0002,0.0
+Europe,3,Other non-communicable diseases,Other chromosomal abnormalities,0.0,0.0002,0.0002,0.0266
+Europe,3,Other non-communicable diseases,Congenital heart anomalies,0.0,0.0001,0.0001,0.0
+Europe,3,Other non-communicable diseases,Down syndrome,0.0,0.0001,0.0001,0.0032
+Europe,3,Other non-communicable diseases,Neural tube defects,0.0,0.0001,0.0001,0.0694
+Europe,3,Other non-communicable diseases,Urogenital congenital anomalies,0.0,0.0001,0.0001,0.0
+Europe,3,Other non-communicable diseases,Thyroid diseases,0.0,0.0,0.0,0.0
+Europe,3,Other non-communicable diseases,Other hemoglobinopathies and hemolytic anemias,0.0,0.0,0.0,0.0
+Europe,3,Other non-communicable diseases,Uterine fibroids,0.0,0.0,0.0,0.0
+Europe,3,Other non-communicable diseases,Sickle cell disorders,0.0,0.0,0.0,0.0613
+Europe,3,Other non-communicable diseases,Thalassemias,0.0,0.0,0.0,0.0
+Europe,3,Other non-communicable diseases,Digestive congenital anomalies,0.0,0.0,0.0,0.0
+Europe,3,Other non-communicable diseases,G6PD deficiency,0.0,0.0,0.0,0.0
+Europe,3,Respiratory infections and tuberculosis,COVID-19,0.0003,0.0071,0.0068,0.0411
+Europe,3,Respiratory infections and tuberculosis,Drug-susceptible tuberculosis,0.0,0.0002,0.0002,0.0
+Europe,3,Respiratory infections and tuberculosis,Multidrug-resistant tuberculosis without extensive drug resistance,0.0,0.0,0.0,0.0
+Europe,3,Respiratory infections and tuberculosis,Otitis media,0.0,0.0,0.0,0.0
+Europe,3,Respiratory infections and tuberculosis,Extensively drug-resistant tuberculosis,0.0,0.0,0.0,0.0
+Europe,3,Respiratory infections and tuberculosis,Upper respiratory infections,0.0,0.0,0.0,0.0
+Europe,3,Respiratory infections and tuberculosis,Lower respiratory infections,0.0,0.0,0.0,0.0
+Europe,3,Sense organ diseases,Age-related and other hearing loss,0.0,0.0056,0.0056,0.0
+Europe,3,Sense organ diseases,Cataract,0.0,0.002,0.002,0.0
+Europe,3,Sense organ diseases,Other vision loss,0.0,0.002,0.002,0.0
+Europe,3,Sense organ diseases,Refraction disorders,0.0,0.0014,0.0014,0.0
+Europe,3,Sense organ diseases,Glaucoma,0.0,0.0008,0.0008,0.0
+Europe,3,Sense organ diseases,Age-related macular degeneration,0.0,0.0007,0.0007,0.0
+Europe,3,Skin and subcutaneous diseases,Psoriasis,0.0009,0.0021,0.0012,0.4359
+Europe,3,Skin and subcutaneous diseases,Atopic dermatitis,0.0003,0.002,0.0017,0.1609
+Europe,3,Skin and subcutaneous diseases,Urticaria,0.0,0.0017,0.0017,0.0
+Europe,3,Skin and subcutaneous diseases,Contact dermatitis,0.0,0.0008,0.0008,0.0
+Europe,3,Skin and subcutaneous diseases,Acne vulgaris,0.0,0.0004,0.0004,0.0
+Europe,3,Substance use disorders,Alcohol use disorders,0.0013,0.0032,0.002,0.3915
+Europe,3,Substance use disorders,Opioid use disorders,0.0012,0.0022,0.001,0.5519
+Europe,3,Substance use disorders,Amphetamine use disorders,0.0,0.0004,0.0004,0.013
+Europe,3,Substance use disorders,Cannabis use disorders,0.0,0.0002,0.0002,0.0
+Europe,3,Substance use disorders,Cocaine use disorders,0.0,0.0002,0.0002,0.0145
+South-East Asia,3,Cardiovascular diseases,Ischemic stroke,0.0005,0.0021,0.0015,0.2475
+South-East Asia,3,Cardiovascular diseases,Atrial fibrillation and flutter,0.0,0.0018,0.0018,0.0
+South-East Asia,3,Cardiovascular diseases,Other cardiovascular and circulatory diseases,0.0,0.0011,0.0011,0.0
+South-East Asia,3,Cardiovascular diseases,Intracerebral hemorrhage,0.0002,0.0008,0.0005,0.2861
+South-East Asia,3,Cardiovascular diseases,Ischemic heart disease,0.0,0.0006,0.0006,0.0
+South-East Asia,3,Cardiovascular diseases,Hypertensive heart disease,0.0,0.0003,0.0003,0.0
+South-East Asia,3,Cardiovascular diseases,Subarachnoid hemorrhage,0.0001,0.0003,0.0002,0.2697
+South-East Asia,3,Cardiovascular diseases,Rheumatic heart disease,0.0,0.0002,0.0002,0.0
+South-East Asia,3,Cardiovascular diseases,Other cardiomyopathy,0.0,0.0001,0.0001,0.0
+South-East Asia,3,Cardiovascular diseases,Non-rheumatic degenerative mitral valve disease,0.0,0.0,0.0,0.0
+South-East Asia,3,Cardiovascular diseases,Non-rheumatic calcific aortic valve disease,0.0,0.0,0.0,0.0
+South-East Asia,3,Cardiovascular diseases,Endocarditis,0.0,0.0,0.0,0.0
+South-East Asia,3,Cardiovascular diseases,Pulmonary Arterial Hypertension,0.0,0.0,0.0,0.0
+South-East Asia,3,Cardiovascular diseases,Myocarditis,0.0,0.0,0.0,0.0
+South-East Asia,3,Cardiovascular diseases,Alcoholic cardiomyopathy,0.0,0.0,0.0,0.0
+South-East Asia,3,Cardiovascular diseases,Other non-rheumatic valve diseases,0.0,0.0,0.0,0.0
+South-East Asia,3,Chronic respiratory diseases,Chronic obstructive pulmonary disease,0.0,0.0079,0.0079,0.0
+South-East Asia,3,Chronic respiratory diseases,Interstitial lung disease and pulmonary sarcoidosis,0.0,0.0001,0.0001,0.0
+South-East Asia,3,Chronic respiratory diseases,Silicosis,0.0,0.0,0.0,0.0097
+South-East Asia,3,Chronic respiratory diseases,Other pneumoconiosis,0.0,0.0,0.0,0.0081
+South-East Asia,3,Chronic respiratory diseases,Asbestosis,0.0,0.0,0.0,0.0097
+South-East Asia,3,Chronic respiratory diseases,Coal workers pneumoconiosis,0.0,0.0,0.0,0.0105
+South-East Asia,3,Diabetes and kidney diseases,Diabetes mellitus type 2,0.0,0.0014,0.0014,0.0
+South-East Asia,3,Diabetes and kidney diseases,Chronic kidney disease due to other and unspecified causes,0.0004,0.0006,0.0002,0.5998
+South-East Asia,3,Diabetes and kidney diseases,Chronic kidney disease due to diabetes mellitus type 2,0.0002,0.0005,0.0003,0.4028
+South-East Asia,3,Diabetes and kidney diseases,Chronic kidney disease due to hypertension,0.0002,0.0003,0.0001,0.5681
+South-East Asia,3,Diabetes and kidney diseases,Chronic kidney disease due to glomerulonephritis,0.0002,0.0002,0.0,0.9568
+South-East Asia,3,Diabetes and kidney diseases,Chronic kidney disease due to diabetes mellitus type 1,0.0001,0.0001,0.0,0.864
+South-East Asia,3,Diabetes and kidney diseases,Diabetes mellitus type 1,0.0,0.0,0.0,0.0
+South-East Asia,3,Digestive diseases,"Inguinal, femoral, and abdominal hernia",0.0,0.0004,0.0004,0.0
+South-East Asia,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to other causes,0.0,0.0002,0.0002,0.0
+South-East Asia,3,Digestive diseases,Ulcerative colitis,0.0,0.0002,0.0002,0.0
+South-East Asia,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to hepatitis B,0.0,0.0001,0.0001,0.0
+South-East Asia,3,Digestive diseases,Crohn's disease,0.0,0.0001,0.0001,0.0
+South-East Asia,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to hepatitis C,0.0,0.0001,0.0001,0.0
+South-East Asia,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to alcohol use,0.0,0.0001,0.0001,0.0
+South-East Asia,3,Digestive diseases,Gastritis and duodenitis,0.0,0.0001,0.0001,0.0
+South-East Asia,3,Digestive diseases,Peptic ulcer disease,0.0,0.0001,0.0001,0.0
+South-East Asia,3,Digestive diseases,Pancreatitis,0.0,0.0,0.0,0.0
+South-East Asia,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to NAFLD,0.0,0.0,0.0,0.0
+South-East Asia,3,Digestive diseases,Vascular intestinal disorders,0.0,0.0,0.0,0.0
+South-East Asia,3,Enteric infections,Diarrheal diseases,0.0,0.0,0.0,0.0
+South-East Asia,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS resulting in other diseases,0.0,0.0001,0.0001,0.2417
+South-East Asia,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Drug-susceptible Tuberculosis,0.0,0.0001,0.0001,0.0
+South-East Asia,3,HIV/AIDS and sexually transmitted infections,Syphilis,0.0,0.0001,0.0001,0.0321
+South-East Asia,3,HIV/AIDS and sexually transmitted infections,Other sexually transmitted infections,0.0,0.0,0.0,0.0
+South-East Asia,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Multidrug-resistant Tuberculosis without extensive drug resistance,0.0,0.0,0.0,0.0
+South-East Asia,3,HIV/AIDS and sexually transmitted infections,Chlamydial infection,0.0,0.0,0.0,0.0
+South-East Asia,3,HIV/AIDS and sexually transmitted infections,Gonococcal infection,0.0,0.0,0.0,0.0
+South-East Asia,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Extensively drug-resistant Tuberculosis,0.0,0.0,0.0,0.0
+South-East Asia,3,Injuries,injuries,0.0,0.0052,0.0052,0.0
+South-East Asia,3,Maternal and neonatal disorders,Neonatal preterm birth,0.0013,0.0072,0.0058,0.1867
+South-East Asia,3,Maternal and neonatal disorders,Neonatal encephalopathy due to birth asphyxia and trauma,0.0002,0.001,0.0008,0.2417
+South-East Asia,3,Maternal and neonatal disorders,Neonatal sepsis and other neonatal infections,0.0002,0.0008,0.0006,0.2333
+South-East Asia,3,Maternal and neonatal disorders,Maternal obstructed labor and uterine rupture,0.0,0.0002,0.0002,0.0
+South-East Asia,3,Maternal and neonatal disorders,Hemolytic disease and other neonatal jaundice,0.0,0.0002,0.0002,0.2301
+South-East Asia,3,Mental disorders,Major depressive disorder,0.0036,0.0102,0.0066,0.3563
+South-East Asia,3,Mental disorders,Anxiety disorders,0.0,0.0078,0.0078,0.0
+South-East Asia,3,Mental disorders,Schizophrenia,0.0031,0.0031,0.0,1.0
+South-East Asia,3,Mental disorders,Conduct disorder,0.0,0.0029,0.0029,0.0
+South-East Asia,3,Mental disorders,Autism spectrum disorders,0.0,0.002,0.002,0.0
+South-East Asia,3,Mental disorders,Bipolar disorder,0.0,0.0017,0.0017,0.0
+South-East Asia,3,Mental disorders,Bulimia nervosa,0.0,0.0014,0.0014,0.0
+South-East Asia,3,Mental disorders,Idiopathic developmental intellectual disability,0.0,0.0013,0.0013,0.0
+South-East Asia,3,Mental disorders,Other mental disorders,0.0,0.0011,0.0011,0.0
+South-East Asia,3,Mental disorders,Anorexia nervosa,0.0,0.0004,0.0004,0.0
+South-East Asia,3,Musculoskeletal disorders,Low back pain,0.0,0.0185,0.0185,0.0
+South-East Asia,3,Musculoskeletal disorders,Other musculoskeletal disorders,0.0057,0.0163,0.0106,0.3496
+South-East Asia,3,Musculoskeletal disorders,Neck pain,0.0,0.0038,0.0038,0.0
+South-East Asia,3,Musculoskeletal disorders,Osteoarthritis knee,0.0,0.0033,0.0033,0.0
+South-East Asia,3,Musculoskeletal disorders,Osteoarthritis other,0.0,0.0006,0.0006,0.0
+South-East Asia,3,Musculoskeletal disorders,Gout,0.0001,0.0005,0.0004,0.1291
+South-East Asia,3,Musculoskeletal disorders,Osteoarthritis hand,0.0,0.0004,0.0004,0.0
+South-East Asia,3,Musculoskeletal disorders,Rheumatoid arthritis,0.0001,0.0004,0.0002,0.3842
+South-East Asia,3,Musculoskeletal disorders,Osteoarthritis hip,0.0,0.0002,0.0002,0.0
+South-East Asia,3,Neglected tropical diseases and malaria,Dengue,0.0,0.0007,0.0007,0.0
+South-East Asia,3,Neglected tropical diseases and malaria,Cysticercosis,0.0,0.0004,0.0004,0.0
+South-East Asia,3,Neglected tropical diseases and malaria,Trachoma,0.0,0.0001,0.0001,0.0
+South-East Asia,3,Neglected tropical diseases and malaria,Malaria,0.0,0.0,0.0,0.2532
+South-East Asia,3,Neglected tropical diseases and malaria,Cystic echinococcosis,0.0,0.0,0.0,0.0
+South-East Asia,3,Neglected tropical diseases and malaria,Schistosomiasis,0.0,0.0,0.0,0.0
+South-East Asia,3,Neglected tropical diseases and malaria,African trypanosomiasis,0.0,0.0,0.0,
+South-East Asia,3,Neglected tropical diseases and malaria,Zika virus,0.0,0.0,0.0,
+South-East Asia,3,Neglected tropical diseases and malaria,Chagas disease,0.0,0.0,0.0,
+South-East Asia,3,Neglected tropical diseases and malaria,Ebola,0.0,0.0,0.0,
+South-East Asia,3,Neglected tropical diseases and malaria,Food-borne trematodiases,0.0,0.0,0.0,
+South-East Asia,3,Neglected tropical diseases and malaria,Onchocerciasis,0.0,0.0,0.0,
+South-East Asia,3,Neoplasms,Breast cancer,0.0,0.0001,0.0001,0.0544
+South-East Asia,3,Neoplasms,Cervical cancer,0.0,0.0001,0.0,0.0878
+South-East Asia,3,Neoplasms,Colon and rectum cancer,0.0,0.0,0.0,0.0
+South-East Asia,3,Neoplasms,"Tracheal, bronchus, and lung cancer",0.0,0.0,0.0,0.0
+South-East Asia,3,Neoplasms,Lip and oral cavity cancer,0.0,0.0,0.0,0.107
+South-East Asia,3,Neoplasms,Prostate cancer,0.0,0.0,0.0,0.0
+South-East Asia,3,Neoplasms,Ovarian cancer,0.0,0.0,0.0,0.0637
+South-East Asia,3,Neoplasms,Stomach cancer,0.0,0.0,0.0,0.0
+South-East Asia,3,Neoplasms,Bladder cancer,0.0,0.0,0.0,0.0511
+South-East Asia,3,Neoplasms,Other non-Hodgkin lymphoma,0.0,0.0,0.0,0.1064
+South-East Asia,3,Neoplasms,Larynx cancer,0.0,0.0,0.0,0.0796
+South-East Asia,3,Neoplasms,Esophageal cancer,0.0,0.0,0.0,0.1376
+South-East Asia,3,Neoplasms,Other pharynx cancer,0.0,0.0,0.0,0.159
+South-East Asia,3,Neoplasms,Other malignant neoplasms,0.0,0.0,0.0,0.1465
+South-East Asia,3,Neoplasms,Malignant neoplasm of bone and articular cartilage,0.0,0.0,0.0,0.0295
+South-East Asia,3,Neoplasms,Uterine cancer,0.0,0.0,0.0,0.0493
+South-East Asia,3,Neoplasms,Brain and central nervous system cancer,0.0,0.0,0.0,0.1274
+South-East Asia,3,Neoplasms,Gallbladder and biliary tract cancer,0.0,0.0,0.0,0.156
+South-East Asia,3,Neoplasms,Pancreatic cancer,0.0,0.0,0.0,0.1613
+South-East Asia,3,Neoplasms,Thyroid cancer,0.0,0.0,0.0,0.0526
+South-East Asia,3,Neoplasms,Multiple myeloma,0.0,0.0,0.0,0.0815
+South-East Asia,3,Neoplasms,Other leukemia,0.0,0.0,0.0,0.0456
+South-East Asia,3,Neoplasms,Nasopharynx cancer,0.0,0.0,0.0,0.0946
+South-East Asia,3,Neoplasms,Soft tissue and other extraosseous sarcomas,0.0,0.0,0.0,0.0532
+South-East Asia,3,Neoplasms,Kidney cancer,0.0,0.0,0.0,0.0984
+South-East Asia,3,Neoplasms,Acute myeloid leukemia,0.0,0.0,0.0,0.1423
+South-East Asia,3,Neoplasms,Liver cancer due to hepatitis B,0.0,0.0,0.0,0.157
+South-East Asia,3,Neoplasms,Acute lymphoid leukemia,0.0,0.0,0.0,0.1101
+South-East Asia,3,Neoplasms,Liver cancer due to alcohol use,0.0,0.0,0.0,0.1583
+South-East Asia,3,Neoplasms,Liver cancer due to hepatitis C,0.0,0.0,0.0,0.1592
+South-East Asia,3,Neoplasms,Hodgkin lymphoma,0.0,0.0,0.0,0.098
+South-East Asia,3,Neoplasms,Testicular cancer,0.0,0.0,0.0,0.0939
+South-East Asia,3,Neoplasms,Liver cancer due to NASH,0.0,0.0,0.0,0.1586
+South-East Asia,3,Neoplasms,Chronic myeloid leukemia,0.0,0.0,0.0,0.1539
+South-East Asia,3,Neoplasms,Chronic lymphoid leukemia,0.0,0.0,0.0,0.0521
+South-East Asia,3,Neoplasms,Malignant skin melanoma,0.0,0.0,0.0,0.1351
+South-East Asia,3,Neoplasms,Mesothelioma,0.0,0.0,0.0,0.1108
+South-East Asia,3,Neoplasms,Neuroblastoma and other peripheral nervous cell tumors,0.0,0.0,0.0,0.0367
+South-East Asia,3,Neoplasms,Other eye cancers,0.0,0.0,0.0,0.0401
+South-East Asia,3,Neoplasms,Liver cancer due to other causes,0.0,0.0,0.0,0.1573
+South-East Asia,3,Neoplasms,Retinoblastoma,0.0,0.0,0.0,0.0084
+South-East Asia,3,Neoplasms,Hepatoblastoma,0.0,0.0,0.0,0.022
+South-East Asia,3,Neoplasms,Burkitt lymphoma,0.0,0.0,0.0,0.0435
+South-East Asia,3,Neoplasms,Non-melanoma skin cancer (squamous-cell carcinoma),0.0,0.0,0.0,0.0
+South-East Asia,3,Neurological disorders,Migraine,0.0,0.0164,0.0164,0.0
+South-East Asia,3,Neurological disorders,Idiopathic epilepsy,0.0011,0.0021,0.0009,0.5445
+South-East Asia,3,Neurological disorders,Alzheimer's disease and other dementias,0.0,0.0018,0.0018,0.0
+South-East Asia,3,Neurological disorders,Tension-type headache,0.0,0.0014,0.0014,0.0
+South-East Asia,3,Neurological disorders,Parkinson's disease,0.0,0.0004,0.0004,0.0
+South-East Asia,3,Neurological disorders,Multiple sclerosis,0.0,0.0001,0.0,0.1524
+South-East Asia,3,Neurological disorders,Other neurological disorders,0.0,0.0,0.0,0.0
+South-East Asia,3,Neurological disorders,Motor neuron disease,0.0,0.0,0.0,0.1575
+South-East Asia,3,Nutritional deficiencies,Iodine deficiency,0.0,0.0003,0.0003,0.0
+South-East Asia,3,Nutritional deficiencies,Vitamin A deficiency,0.0,0.0002,0.0002,0.0
+South-East Asia,3,Nutritional deficiencies,Protein-energy malnutrition,0.0,0.0,0.0,0.0
+South-East Asia,3,Other infectious diseases,Encephalitis,0.0001,0.0003,0.0003,0.1705
+South-East Asia,3,Other infectious diseases,Meningitis,0.0,0.0002,0.0002,0.1581
+South-East Asia,3,Other infectious diseases,Other unspecified infectious diseases,0.0,0.0,0.0,0.0
+South-East Asia,3,Other infectious diseases,Tetanus,0.0,0.0,0.0,0.2642
+South-East Asia,3,Other non-communicable diseases,Other gynecological diseases,0.0,0.0026,0.0026,0.0
+South-East Asia,3,Other non-communicable diseases,Other congenital birth defects,0.0,0.0015,0.0015,0.0
+South-East Asia,3,Other non-communicable diseases,Congenital musculoskeletal and limb anomalies,0.0,0.0013,0.0013,0.0
+South-East Asia,3,Other non-communicable diseases,Endometriosis,0.0,0.0004,0.0004,0.0
+South-East Asia,3,Other non-communicable diseases,Congenital heart anomalies,0.0,0.0001,0.0001,0.0
+South-East Asia,3,Other non-communicable diseases,Other chromosomal abnormalities,0.0,0.0001,0.0001,0.0343
+South-East Asia,3,Other non-communicable diseases,Urogenital congenital anomalies,0.0,0.0001,0.0001,0.0
+South-East Asia,3,Other non-communicable diseases,Neural tube defects,0.0,0.0001,0.0001,0.0715
+South-East Asia,3,Other non-communicable diseases,Sickle cell disorders,0.0,0.0001,0.0001,0.0207
+South-East Asia,3,Other non-communicable diseases,Down syndrome,0.0,0.0,0.0,0.0004
+South-East Asia,3,Other non-communicable diseases,Uterine fibroids,0.0,0.0,0.0,0.0
+South-East Asia,3,Other non-communicable diseases,Thalassemias,0.0,0.0,0.0,0.0
+South-East Asia,3,Other non-communicable diseases,Other hemoglobinopathies and hemolytic anemias,0.0,0.0,0.0,0.0
+South-East Asia,3,Other non-communicable diseases,Thyroid diseases,0.0,0.0,0.0,0.0
+South-East Asia,3,Other non-communicable diseases,Digestive congenital anomalies,0.0,0.0,0.0,0.0
+South-East Asia,3,Other non-communicable diseases,G6PD deficiency,0.0,0.0,0.0,0.0
+South-East Asia,3,Respiratory infections and tuberculosis,COVID-19,0.0003,0.0084,0.008,0.0398
+South-East Asia,3,Respiratory infections and tuberculosis,Drug-susceptible tuberculosis,0.0,0.0031,0.0031,0.0
+South-East Asia,3,Respiratory infections and tuberculosis,Multidrug-resistant tuberculosis without extensive drug resistance,0.0,0.0002,0.0002,0.0
+South-East Asia,3,Respiratory infections and tuberculosis,Otitis media,0.0,0.0,0.0,0.0
+South-East Asia,3,Respiratory infections and tuberculosis,Upper respiratory infections,0.0,0.0,0.0,0.0
+South-East Asia,3,Respiratory infections and tuberculosis,Extensively drug-resistant tuberculosis,0.0,0.0,0.0,0.0
+South-East Asia,3,Respiratory infections and tuberculosis,Lower respiratory infections,0.0,0.0,0.0,0.0
+South-East Asia,3,Sense organ diseases,Cataract,0.0,0.0063,0.0063,0.0
+South-East Asia,3,Sense organ diseases,Age-related and other hearing loss,0.0,0.0046,0.0046,0.0
+South-East Asia,3,Sense organ diseases,Refraction disorders,0.0,0.0025,0.0025,0.0
+South-East Asia,3,Sense organ diseases,Other vision loss,0.0,0.0016,0.0016,0.0
+South-East Asia,3,Sense organ diseases,Glaucoma,0.0,0.0004,0.0004,0.0
+South-East Asia,3,Sense organ diseases,Age-related macular degeneration,0.0,0.0003,0.0003,0.0
+South-East Asia,3,Skin and subcutaneous diseases,Urticaria,0.0,0.002,0.002,0.0
+South-East Asia,3,Skin and subcutaneous diseases,Contact dermatitis,0.0,0.0009,0.0009,0.0
+South-East Asia,3,Skin and subcutaneous diseases,Psoriasis,0.0004,0.0009,0.0005,0.4359
+South-East Asia,3,Skin and subcutaneous diseases,Atopic dermatitis,0.0001,0.0008,0.0007,0.161
+South-East Asia,3,Skin and subcutaneous diseases,Acne vulgaris,0.0,0.0005,0.0005,0.0
+South-East Asia,3,Substance use disorders,Alcohol use disorders,0.0005,0.0013,0.0008,0.3895
+South-East Asia,3,Substance use disorders,Opioid use disorders,0.0005,0.0008,0.0004,0.5519
+South-East Asia,3,Substance use disorders,Cannabis use disorders,0.0,0.0002,0.0002,0.0
+South-East Asia,3,Substance use disorders,Amphetamine use disorders,0.0,0.0001,0.0001,0.002
+South-East Asia,3,Substance use disorders,Cocaine use disorders,0.0,0.0,0.0,0.0737
+Western Pacific,3,Cardiovascular diseases,Ischemic stroke,0.0011,0.0062,0.0051,0.184
+Western Pacific,3,Cardiovascular diseases,Atrial fibrillation and flutter,0.0,0.0028,0.0028,0.0
+Western Pacific,3,Cardiovascular diseases,Intracerebral hemorrhage,0.0004,0.0014,0.001,0.2639
+Western Pacific,3,Cardiovascular diseases,Other cardiovascular and circulatory diseases,0.0,0.0011,0.0011,0.0
+Western Pacific,3,Cardiovascular diseases,Ischemic heart disease,0.0,0.001,0.001,0.0
+Western Pacific,3,Cardiovascular diseases,Hypertensive heart disease,0.0,0.0007,0.0007,0.0
+Western Pacific,3,Cardiovascular diseases,Subarachnoid hemorrhage,0.0001,0.0005,0.0004,0.2088
+Western Pacific,3,Cardiovascular diseases,Other cardiomyopathy,0.0,0.0001,0.0001,0.0
+Western Pacific,3,Cardiovascular diseases,Rheumatic heart disease,0.0,0.0001,0.0001,0.0
+Western Pacific,3,Cardiovascular diseases,Non-rheumatic degenerative mitral valve disease,0.0,0.0001,0.0001,0.0
+Western Pacific,3,Cardiovascular diseases,Non-rheumatic calcific aortic valve disease,0.0,0.0,0.0,0.0
+Western Pacific,3,Cardiovascular diseases,Myocarditis,0.0,0.0,0.0,0.0
+Western Pacific,3,Cardiovascular diseases,Alcoholic cardiomyopathy,0.0,0.0,0.0,0.0
+Western Pacific,3,Cardiovascular diseases,Pulmonary Arterial Hypertension,0.0,0.0,0.0,0.0
+Western Pacific,3,Cardiovascular diseases,Endocarditis,0.0,0.0,0.0,0.0
+Western Pacific,3,Cardiovascular diseases,Other non-rheumatic valve diseases,0.0,0.0,0.0,0.0
+Western Pacific,3,Chronic respiratory diseases,Chronic obstructive pulmonary disease,0.0,0.0079,0.0079,0.0
+Western Pacific,3,Chronic respiratory diseases,Interstitial lung disease and pulmonary sarcoidosis,0.0,0.0002,0.0002,0.0
+Western Pacific,3,Chronic respiratory diseases,Silicosis,0.0,0.0,0.0,0.0181
+Western Pacific,3,Chronic respiratory diseases,Coal workers pneumoconiosis,0.0,0.0,0.0,0.0312
+Western Pacific,3,Chronic respiratory diseases,Other pneumoconiosis,0.0,0.0,0.0,0.0212
+Western Pacific,3,Chronic respiratory diseases,Asbestosis,0.0,0.0,0.0,0.0353
+Western Pacific,3,Diabetes and kidney diseases,Diabetes mellitus type 2,0.0,0.0007,0.0007,0.0
+Western Pacific,3,Diabetes and kidney diseases,Chronic kidney disease due to diabetes mellitus type 2,0.0001,0.0006,0.0005,0.2283
+Western Pacific,3,Diabetes and kidney diseases,Chronic kidney disease due to other and unspecified causes,0.0004,0.0006,0.0002,0.659
+Western Pacific,3,Diabetes and kidney diseases,Chronic kidney disease due to hypertension,0.0003,0.0004,0.0001,0.6702
+Western Pacific,3,Diabetes and kidney diseases,Chronic kidney disease due to glomerulonephritis,0.0002,0.0002,0.0,0.9574
+Western Pacific,3,Diabetes and kidney diseases,Chronic kidney disease due to diabetes mellitus type 1,0.0001,0.0001,0.0,0.9722
+Western Pacific,3,Diabetes and kidney diseases,Diabetes mellitus type 1,0.0,0.0,0.0,0.0
+Western Pacific,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to hepatitis B,0.0,0.0002,0.0002,0.0
+Western Pacific,3,Digestive diseases,"Inguinal, femoral, and abdominal hernia",0.0,0.0002,0.0002,0.0
+Western Pacific,3,Digestive diseases,Ulcerative colitis,0.0,0.0001,0.0001,0.0
+Western Pacific,3,Digestive diseases,Pancreatitis,0.0,0.0001,0.0001,0.0
+Western Pacific,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to hepatitis C,0.0,0.0001,0.0001,0.0
+Western Pacific,3,Digestive diseases,Crohn's disease,0.0,0.0,0.0,0.0
+Western Pacific,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to alcohol use,0.0,0.0,0.0,0.0
+Western Pacific,3,Digestive diseases,Peptic ulcer disease,0.0,0.0,0.0,0.0
+Western Pacific,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to other causes,0.0,0.0,0.0,0.0
+Western Pacific,3,Digestive diseases,Gastritis and duodenitis,0.0,0.0,0.0,0.0
+Western Pacific,3,Digestive diseases,Vascular intestinal disorders,0.0,0.0,0.0,0.0
+Western Pacific,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to NAFLD,0.0,0.0,0.0,0.0
+Western Pacific,3,Enteric infections,Diarrheal diseases,0.0,0.0,0.0,0.0
+Western Pacific,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS resulting in other diseases,0.0,0.0001,0.0001,0.395
+Western Pacific,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Drug-susceptible Tuberculosis,0.0,0.0,0.0,0.0
+Western Pacific,3,HIV/AIDS and sexually transmitted infections,Other sexually transmitted infections,0.0,0.0,0.0,0.0
+Western Pacific,3,HIV/AIDS and sexually transmitted infections,Syphilis,0.0,0.0,0.0,0.1305
+Western Pacific,3,HIV/AIDS and sexually transmitted infections,Chlamydial infection,0.0,0.0,0.0,0.0
+Western Pacific,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Multidrug-resistant Tuberculosis without extensive drug resistance,0.0,0.0,0.0,0.0
+Western Pacific,3,HIV/AIDS and sexually transmitted infections,Gonococcal infection,0.0,0.0,0.0,0.0
+Western Pacific,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Extensively drug-resistant Tuberculosis,0.0,0.0,0.0,0.0
+Western Pacific,3,Injuries,injuries,0.0,0.0082,0.0082,0.0
+Western Pacific,3,Maternal and neonatal disorders,Neonatal preterm birth,0.0005,0.0015,0.0011,0.295
+Western Pacific,3,Maternal and neonatal disorders,Neonatal encephalopathy due to birth asphyxia and trauma,0.0005,0.0013,0.0008,0.3695
+Western Pacific,3,Maternal and neonatal disorders,Neonatal sepsis and other neonatal infections,0.0001,0.0003,0.0002,0.3681
+Western Pacific,3,Maternal and neonatal disorders,Hemolytic disease and other neonatal jaundice,0.0,0.0001,0.0001,0.3693
+Western Pacific,3,Maternal and neonatal disorders,Maternal obstructed labor and uterine rupture,0.0,0.0,0.0,
+Western Pacific,3,Mental disorders,Anxiety disorders,0.0,0.0065,0.0065,0.0
+Western Pacific,3,Mental disorders,Major depressive disorder,0.0019,0.0055,0.0035,0.3556
+Western Pacific,3,Mental disorders,Schizophrenia,0.0037,0.0037,0.0,1.0
+Western Pacific,3,Mental disorders,Autism spectrum disorders,0.0,0.0023,0.0023,0.0
+Western Pacific,3,Mental disorders,Conduct disorder,0.0,0.0017,0.0017,0.0
+Western Pacific,3,Mental disorders,Other mental disorders,0.0,0.0014,0.0014,0.0
+Western Pacific,3,Mental disorders,Bipolar disorder,0.0,0.0014,0.0014,0.0
+Western Pacific,3,Mental disorders,Bulimia nervosa,0.0,0.0012,0.0012,0.0
+Western Pacific,3,Mental disorders,Anorexia nervosa,0.0,0.0004,0.0004,0.0
+Western Pacific,3,Mental disorders,Idiopathic developmental intellectual disability,0.0,0.0001,0.0001,0.0
+Western Pacific,3,Musculoskeletal disorders,Low back pain,0.0,0.0219,0.0219,0.0
+Western Pacific,3,Musculoskeletal disorders,Other musculoskeletal disorders,0.0046,0.0131,0.0085,0.3496
+Western Pacific,3,Musculoskeletal disorders,Osteoarthritis knee,0.0,0.007,0.007,0.0
+Western Pacific,3,Musculoskeletal disorders,Neck pain,0.0,0.0068,0.0068,0.0
+Western Pacific,3,Musculoskeletal disorders,Osteoarthritis hand,0.0,0.0014,0.0014,0.0
+Western Pacific,3,Musculoskeletal disorders,Gout,0.0002,0.0012,0.001,0.1291
+Western Pacific,3,Musculoskeletal disorders,Osteoarthritis other,0.0,0.001,0.001,0.0
+Western Pacific,3,Musculoskeletal disorders,Rheumatoid arthritis,0.0003,0.0007,0.0004,0.3842
+Western Pacific,3,Musculoskeletal disorders,Osteoarthritis hip,0.0,0.0004,0.0004,0.0
+Western Pacific,3,Neglected tropical diseases and malaria,Food-borne trematodiases,0.0,0.0007,0.0007,0.0
+Western Pacific,3,Neglected tropical diseases and malaria,Cysticercosis,0.0,0.0004,0.0004,0.0
+Western Pacific,3,Neglected tropical diseases and malaria,Dengue,0.0,0.0001,0.0001,0.0
+Western Pacific,3,Neglected tropical diseases and malaria,Trachoma,0.0,0.0,0.0,0.0
+Western Pacific,3,Neglected tropical diseases and malaria,Cystic echinococcosis,0.0,0.0,0.0,0.0
+Western Pacific,3,Neglected tropical diseases and malaria,Malaria,0.0,0.0,0.0,0.3765
+Western Pacific,3,Neglected tropical diseases and malaria,Schistosomiasis,0.0,0.0,0.0,0.0
+Western Pacific,3,Neglected tropical diseases and malaria,Chagas disease,0.0,0.0,0.0,0.0
+Western Pacific,3,Neglected tropical diseases and malaria,African trypanosomiasis,0.0,0.0,0.0,
+Western Pacific,3,Neglected tropical diseases and malaria,Zika virus,0.0,0.0,0.0,
+Western Pacific,3,Neglected tropical diseases and malaria,Ebola,0.0,0.0,0.0,
+Western Pacific,3,Neglected tropical diseases and malaria,Onchocerciasis,0.0,0.0,0.0,
+Western Pacific,3,Neoplasms,"Tracheal, bronchus, and lung cancer",0.0,0.0003,0.0003,0.0
+Western Pacific,3,Neoplasms,Colon and rectum cancer,0.0,0.0003,0.0003,0.0
+Western Pacific,3,Neoplasms,Stomach cancer,0.0,0.0002,0.0002,0.0
+Western Pacific,3,Neoplasms,Breast cancer,0.0,0.0002,0.0002,0.0416
+Western Pacific,3,Neoplasms,Prostate cancer,0.0,0.0001,0.0001,0.0
+Western Pacific,3,Neoplasms,Esophageal cancer,0.0,0.0001,0.0001,0.1308
+Western Pacific,3,Neoplasms,Other non-Hodgkin lymphoma,0.0,0.0001,0.0001,0.0391
+Western Pacific,3,Neoplasms,Bladder cancer,0.0,0.0001,0.0001,0.0374
+Western Pacific,3,Neoplasms,Cervical cancer,0.0,0.0001,0.0001,0.0681
+Western Pacific,3,Neoplasms,Pancreatic cancer,0.0,0.0001,0.0,0.1601
+Western Pacific,3,Neoplasms,Brain and central nervous system cancer,0.0,0.0,0.0,0.1017
+Western Pacific,3,Neoplasms,Liver cancer due to hepatitis B,0.0,0.0,0.0,0.1537
+Western Pacific,3,Neoplasms,Ovarian cancer,0.0,0.0,0.0,0.0577
+Western Pacific,3,Neoplasms,Other malignant neoplasms,0.0,0.0,0.0,0.1067
+Western Pacific,3,Neoplasms,Nasopharynx cancer,0.0,0.0,0.0,0.0635
+Western Pacific,3,Neoplasms,Uterine cancer,0.0,0.0,0.0,0.0496
+Western Pacific,3,Neoplasms,Lip and oral cavity cancer,0.0,0.0,0.0,0.0914
+Western Pacific,3,Neoplasms,Kidney cancer,0.0,0.0,0.0,0.0837
+Western Pacific,3,Neoplasms,Chronic lymphoid leukemia,0.0,0.0,0.0,0.0254
+Western Pacific,3,Neoplasms,Malignant neoplasm of bone and articular cartilage,0.0,0.0,0.0,0.0304
+Western Pacific,3,Neoplasms,Gallbladder and biliary tract cancer,0.0,0.0,0.0,0.1479
+Western Pacific,3,Neoplasms,Acute lymphoid leukemia,0.0,0.0,0.0,0.0539
+Western Pacific,3,Neoplasms,Larynx cancer,0.0,0.0,0.0,0.0662
+Western Pacific,3,Neoplasms,Multiple myeloma,0.0,0.0,0.0,0.0546
+Western Pacific,3,Neoplasms,Liver cancer due to hepatitis C,0.0,0.0,0.0,0.1529
+Western Pacific,3,Neoplasms,Thyroid cancer,0.0,0.0,0.0,0.0422
+Western Pacific,3,Neoplasms,Other leukemia,0.0,0.0,0.0,0.0288
+Western Pacific,3,Neoplasms,Acute myeloid leukemia,0.0,0.0,0.0,0.1457
+Western Pacific,3,Neoplasms,Liver cancer due to alcohol use,0.0,0.0,0.0,0.1541
+Western Pacific,3,Neoplasms,Other pharynx cancer,0.0,0.0,0.0,0.1202
+Western Pacific,3,Neoplasms,Soft tissue and other extraosseous sarcomas,0.0,0.0,0.0,0.0534
+Western Pacific,3,Neoplasms,Non-melanoma skin cancer (squamous-cell carcinoma),0.0,0.0,0.0,0.0
+Western Pacific,3,Neoplasms,Malignant skin melanoma,0.0,0.0,0.0,0.0711
+Western Pacific,3,Neoplasms,Liver cancer due to NASH,0.0,0.0,0.0,0.1547
+Western Pacific,3,Neoplasms,Liver cancer due to other causes,0.0,0.0,0.0,0.1538
+Western Pacific,3,Neoplasms,Testicular cancer,0.0,0.0,0.0,0.0372
+Western Pacific,3,Neoplasms,Hodgkin lymphoma,0.0,0.0,0.0,0.0552
+Western Pacific,3,Neoplasms,Mesothelioma,0.0,0.0,0.0,0.1202
+Western Pacific,3,Neoplasms,Chronic myeloid leukemia,0.0,0.0,0.0,0.1333
+Western Pacific,3,Neoplasms,Other eye cancers,0.0,0.0,0.0,0.0415
+Western Pacific,3,Neoplasms,Burkitt lymphoma,0.0,0.0,0.0,0.0535
+Western Pacific,3,Neoplasms,Neuroblastoma and other peripheral nervous cell tumors,0.0,0.0,0.0,0.0816
+Western Pacific,3,Neoplasms,Retinoblastoma,0.0,0.0,0.0,0.0079
+Western Pacific,3,Neoplasms,Hepatoblastoma,0.0,0.0,0.0,0.0137
+Western Pacific,3,Neurological disorders,Migraine,0.0,0.0148,0.0148,0.0
+Western Pacific,3,Neurological disorders,Alzheimer's disease and other dementias,0.0,0.006,0.006,0.0
+Western Pacific,3,Neurological disorders,Tension-type headache,0.0,0.0016,0.0016,0.0
+Western Pacific,3,Neurological disorders,Idiopathic epilepsy,0.0008,0.0016,0.0008,0.479
+Western Pacific,3,Neurological disorders,Parkinson's disease,0.0,0.0013,0.0013,0.0
+Western Pacific,3,Neurological disorders,Multiple sclerosis,0.0,0.0,0.0,0.1525
+Western Pacific,3,Neurological disorders,Motor neuron disease,0.0,0.0,0.0,0.1575
+Western Pacific,3,Neurological disorders,Other neurological disorders,0.0,0.0,0.0,0.0
+Western Pacific,3,Nutritional deficiencies,Vitamin A deficiency,0.0,0.0001,0.0001,0.0
+Western Pacific,3,Nutritional deficiencies,Iodine deficiency,0.0,0.0,0.0,0.0
+Western Pacific,3,Nutritional deficiencies,Protein-energy malnutrition,0.0,0.0,0.0,0.0
+Western Pacific,3,Other infectious diseases,Encephalitis,0.0,0.0001,0.0001,0.0002
+Western Pacific,3,Other infectious diseases,Meningitis,0.0,0.0,0.0,0.0002
+Western Pacific,3,Other infectious diseases,Other unspecified infectious diseases,0.0,0.0,0.0,0.0
+Western Pacific,3,Other infectious diseases,Tetanus,0.0,0.0,0.0,0.3599
+Western Pacific,3,Other non-communicable diseases,Other gynecological diseases,0.0,0.0026,0.0026,0.0
+Western Pacific,3,Other non-communicable diseases,Congenital musculoskeletal and limb anomalies,0.0,0.0013,0.0013,0.0
+Western Pacific,3,Other non-communicable diseases,Other congenital birth defects,0.0,0.0003,0.0003,0.0
+Western Pacific,3,Other non-communicable diseases,Endometriosis,0.0,0.0003,0.0003,0.0
+Western Pacific,3,Other non-communicable diseases,Other chromosomal abnormalities,0.0,0.0001,0.0001,0.0202
+Western Pacific,3,Other non-communicable diseases,Congenital heart anomalies,0.0,0.0001,0.0001,0.0
+Western Pacific,3,Other non-communicable diseases,Down syndrome,0.0,0.0001,0.0001,0.0003
+Western Pacific,3,Other non-communicable diseases,Neural tube defects,0.0,0.0001,0.0001,0.0696
+Western Pacific,3,Other non-communicable diseases,Urogenital congenital anomalies,0.0,0.0,0.0,0.0
+Western Pacific,3,Other non-communicable diseases,Thalassemias,0.0,0.0,0.0,0.0
+Western Pacific,3,Other non-communicable diseases,Thyroid diseases,0.0,0.0,0.0,0.0
+Western Pacific,3,Other non-communicable diseases,Other hemoglobinopathies and hemolytic anemias,0.0,0.0,0.0,0.0
+Western Pacific,3,Other non-communicable diseases,Uterine fibroids,0.0,0.0,0.0,0.0
+Western Pacific,3,Other non-communicable diseases,Sickle cell disorders,0.0,0.0,0.0,0.0666
+Western Pacific,3,Other non-communicable diseases,G6PD deficiency,0.0,0.0,0.0,0.0
+Western Pacific,3,Other non-communicable diseases,Digestive congenital anomalies,0.0,0.0,0.0,0.0
+Western Pacific,3,Respiratory infections and tuberculosis,Drug-susceptible tuberculosis,0.0,0.0011,0.0011,0.0
+Western Pacific,3,Respiratory infections and tuberculosis,COVID-19,0.0,0.0006,0.0005,0.0395
+Western Pacific,3,Respiratory infections and tuberculosis,Multidrug-resistant tuberculosis without extensive drug resistance,0.0,0.0,0.0,0.0
+Western Pacific,3,Respiratory infections and tuberculosis,Otitis media,0.0,0.0,0.0,0.0
+Western Pacific,3,Respiratory infections and tuberculosis,Upper respiratory infections,0.0,0.0,0.0,0.0
+Western Pacific,3,Respiratory infections and tuberculosis,Extensively drug-resistant tuberculosis,0.0,0.0,0.0,0.0
+Western Pacific,3,Respiratory infections and tuberculosis,Lower respiratory infections,0.0,0.0,0.0,0.0
+Western Pacific,3,Sense organ diseases,Age-related and other hearing loss,0.0,0.0064,0.0064,0.0
+Western Pacific,3,Sense organ diseases,Cataract,0.0,0.0028,0.0028,0.0
+Western Pacific,3,Sense organ diseases,Refraction disorders,0.0,0.002,0.002,0.0
+Western Pacific,3,Sense organ diseases,Other vision loss,0.0,0.0019,0.0019,0.0
+Western Pacific,3,Sense organ diseases,Glaucoma,0.0,0.0004,0.0004,0.0
+Western Pacific,3,Sense organ diseases,Age-related macular degeneration,0.0,0.0004,0.0004,0.0
+Western Pacific,3,Skin and subcutaneous diseases,Urticaria,0.0,0.0016,0.0016,0.0
+Western Pacific,3,Skin and subcutaneous diseases,Psoriasis,0.0005,0.0012,0.0007,0.4358
+Western Pacific,3,Skin and subcutaneous diseases,Contact dermatitis,0.0,0.0011,0.0011,0.0
+Western Pacific,3,Skin and subcutaneous diseases,Atopic dermatitis,0.0002,0.001,0.0008,0.1609
+Western Pacific,3,Skin and subcutaneous diseases,Acne vulgaris,0.0,0.0005,0.0005,0.0
+Western Pacific,3,Substance use disorders,Alcohol use disorders,0.0007,0.0017,0.001,0.3916
+Western Pacific,3,Substance use disorders,Opioid use disorders,0.0005,0.0009,0.0004,0.552
+Western Pacific,3,Substance use disorders,Amphetamine use disorders,0.0,0.0006,0.0006,0.0057
+Western Pacific,3,Substance use disorders,Cannabis use disorders,0.0,0.0001,0.0001,0.0
+Western Pacific,3,Substance use disorders,Cocaine use disorders,0.0,0.0,0.0,0.009
+World,3,Cardiovascular diseases,Ischemic stroke,0.0009,0.0045,0.0036,0.1929
+World,3,Cardiovascular diseases,Atrial fibrillation and flutter,0.0,0.0035,0.0035,0.0
+World,3,Cardiovascular diseases,Other cardiovascular and circulatory diseases,0.0,0.0031,0.0031,0.0
+World,3,Cardiovascular diseases,Ischemic heart disease,0.0,0.001,0.001,0.0
+World,3,Cardiovascular diseases,Intracerebral hemorrhage,0.0003,0.0009,0.0007,0.2722
+World,3,Cardiovascular diseases,Hypertensive heart disease,0.0,0.0006,0.0006,0.0
+World,3,Cardiovascular diseases,Subarachnoid hemorrhage,0.0001,0.0004,0.0003,0.2203
+World,3,Cardiovascular diseases,Other cardiomyopathy,0.0,0.0002,0.0002,0.0
+World,3,Cardiovascular diseases,Non-rheumatic calcific aortic valve disease,0.0,0.0001,0.0001,0.0
+World,3,Cardiovascular diseases,Rheumatic heart disease,0.0,0.0001,0.0001,0.0
+World,3,Cardiovascular diseases,Non-rheumatic degenerative mitral valve disease,0.0,0.0001,0.0001,0.0
+World,3,Cardiovascular diseases,Alcoholic cardiomyopathy,0.0,0.0001,0.0001,0.0
+World,3,Cardiovascular diseases,Endocarditis,0.0,0.0,0.0,0.0
+World,3,Cardiovascular diseases,Myocarditis,0.0,0.0,0.0,0.0
+World,3,Cardiovascular diseases,Pulmonary Arterial Hypertension,0.0,0.0,0.0,0.0
+World,3,Cardiovascular diseases,Other non-rheumatic valve diseases,0.0,0.0,0.0,0.0
+World,3,Chronic respiratory diseases,Chronic obstructive pulmonary disease,0.0,0.0069,0.0069,0.0
+World,3,Chronic respiratory diseases,Interstitial lung disease and pulmonary sarcoidosis,0.0,0.0002,0.0002,0.0
+World,3,Chronic respiratory diseases,Silicosis,0.0,0.0,0.0,0.018
+World,3,Chronic respiratory diseases,Asbestosis,0.0,0.0,0.0,0.0267
+World,3,Chronic respiratory diseases,Coal workers pneumoconiosis,0.0,0.0,0.0,0.0317
+World,3,Chronic respiratory diseases,Other pneumoconiosis,0.0,0.0,0.0,0.0166
+World,3,Diabetes and kidney diseases,Diabetes mellitus type 2,0.0,0.0013,0.0013,0.0
+World,3,Diabetes and kidney diseases,Chronic kidney disease due to other and unspecified causes,0.0004,0.0006,0.0002,0.6276
+World,3,Diabetes and kidney diseases,Chronic kidney disease due to diabetes mellitus type 2,0.0001,0.0005,0.0004,0.2833
+World,3,Diabetes and kidney diseases,Chronic kidney disease due to hypertension,0.0002,0.0003,0.0001,0.6316
+World,3,Diabetes and kidney diseases,Chronic kidney disease due to glomerulonephritis,0.0002,0.0002,0.0,0.9626
+World,3,Diabetes and kidney diseases,Diabetes mellitus type 1,0.0,0.0001,0.0001,0.0
+World,3,Diabetes and kidney diseases,Chronic kidney disease due to diabetes mellitus type 1,0.0001,0.0001,0.0,0.9522
+World,3,Digestive diseases,"Inguinal, femoral, and abdominal hernia",0.0,0.0004,0.0004,0.0
+World,3,Digestive diseases,Ulcerative colitis,0.0,0.0003,0.0003,0.0
+World,3,Digestive diseases,Crohn's disease,0.0,0.0002,0.0002,0.0
+World,3,Digestive diseases,Pancreatitis,0.0,0.0002,0.0002,0.0
+World,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to other causes,0.0,0.0002,0.0002,0.0
+World,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to hepatitis B,0.0,0.0001,0.0001,0.0
+World,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to alcohol use,0.0,0.0001,0.0001,0.0
+World,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to hepatitis C,0.0,0.0001,0.0001,0.0
+World,3,Digestive diseases,Peptic ulcer disease,0.0,0.0001,0.0001,0.0
+World,3,Digestive diseases,Gastritis and duodenitis,0.0,0.0001,0.0001,0.0
+World,3,Digestive diseases,Vascular intestinal disorders,0.0,0.0,0.0,0.0
+World,3,Digestive diseases,Cirrhosis and other chronic liver diseases due to NAFLD,0.0,0.0,0.0,0.0
+World,3,Enteric infections,Diarrheal diseases,0.0,0.0,0.0,0.0
+World,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS resulting in other diseases,0.0007,0.0019,0.0012,0.3574
+World,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Drug-susceptible Tuberculosis,0.0,0.0008,0.0008,0.0
+World,3,HIV/AIDS and sexually transmitted infections,Syphilis,0.0,0.0001,0.0001,0.0231
+World,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Multidrug-resistant Tuberculosis without extensive drug resistance,0.0,0.0,0.0,0.0
+World,3,HIV/AIDS and sexually transmitted infections,Other sexually transmitted infections,0.0,0.0,0.0,0.0
+World,3,HIV/AIDS and sexually transmitted infections,Chlamydial infection,0.0,0.0,0.0,0.0
+World,3,HIV/AIDS and sexually transmitted infections,Gonococcal infection,0.0,0.0,0.0,0.0
+World,3,HIV/AIDS and sexually transmitted infections,HIV/AIDS - Extensively drug-resistant Tuberculosis,0.0,0.0,0.0,0.0
+World,3,Injuries,injuries,0.0,0.0078,0.0078,0.0
+World,3,Maternal and neonatal disorders,Neonatal preterm birth,0.001,0.005,0.004,0.2003
+World,3,Maternal and neonatal disorders,Neonatal encephalopathy due to birth asphyxia and trauma,0.0004,0.0011,0.0007,0.3473
+World,3,Maternal and neonatal disorders,Neonatal sepsis and other neonatal infections,0.0002,0.0007,0.0005,0.3199
+World,3,Maternal and neonatal disorders,Maternal obstructed labor and uterine rupture,0.0,0.0005,0.0005,0.0
+World,3,Maternal and neonatal disorders,Hemolytic disease and other neonatal jaundice,0.0001,0.0002,0.0001,0.3255
+World,3,Mental disorders,Major depressive disorder,0.0037,0.0103,0.0067,0.356
+World,3,Mental disorders,Anxiety disorders,0.0,0.0091,0.0091,0.0
+World,3,Mental disorders,Schizophrenia,0.0031,0.0031,0.0,1.0
+World,3,Mental disorders,Conduct disorder,0.0,0.0029,0.0029,0.0
+World,3,Mental disorders,Bipolar disorder,0.0,0.0029,0.0029,0.0
+World,3,Mental disorders,Autism spectrum disorders,0.0,0.0025,0.0025,0.0
+World,3,Mental disorders,Bulimia nervosa,0.0,0.0017,0.0017,0.0
+World,3,Mental disorders,Other mental disorders,0.0,0.0013,0.0013,0.0
+World,3,Mental disorders,Idiopathic developmental intellectual disability,0.0,0.001,0.001,0.0
+World,3,Mental disorders,Anorexia nervosa,0.0,0.0005,0.0005,0.0
+World,3,Musculoskeletal disorders,Low back pain,0.0,0.0248,0.0248,0.0
+World,3,Musculoskeletal disorders,Other musculoskeletal disorders,0.0051,0.0146,0.0095,0.3497
+World,3,Musculoskeletal disorders,Neck pain,0.0,0.0058,0.0058,0.0
+World,3,Musculoskeletal disorders,Osteoarthritis knee,0.0,0.0054,0.0054,0.0
+World,3,Musculoskeletal disorders,Osteoarthritis hand,0.0,0.0027,0.0027,0.0
+World,3,Musculoskeletal disorders,Gout,0.0001,0.001,0.0008,0.1291
+World,3,Musculoskeletal disorders,Osteoarthritis other,0.0,0.0008,0.0008,0.0
+World,3,Musculoskeletal disorders,Osteoarthritis hip,0.0,0.0006,0.0006,0.0
+World,3,Musculoskeletal disorders,Rheumatoid arthritis,0.0002,0.0006,0.0004,0.384
+World,3,Neglected tropical diseases and malaria,Onchocerciasis,0.0,0.0056,0.0056,0.0
+World,3,Neglected tropical diseases and malaria,Cysticercosis,0.0,0.0008,0.0008,0.0
+World,3,Neglected tropical diseases and malaria,Food-borne trematodiases,0.0,0.0007,0.0007,0.0
+World,3,Neglected tropical diseases and malaria,Malaria,0.0003,0.0007,0.0004,0.3821
+World,3,Neglected tropical diseases and malaria,Dengue,0.0,0.0006,0.0006,0.0
+World,3,Neglected tropical diseases and malaria,Trachoma,0.0,0.0002,0.0002,0.0
+World,3,Neglected tropical diseases and malaria,Chagas disease,0.0,0.0001,0.0001,0.0
+World,3,Neglected tropical diseases and malaria,Schistosomiasis,0.0,0.0,0.0,0.0
+World,3,Neglected tropical diseases and malaria,Cystic echinococcosis,0.0,0.0,0.0,0.0
+World,3,Neglected tropical diseases and malaria,African trypanosomiasis,0.0,0.0,0.0,1.0
+World,3,Neglected tropical diseases and malaria,Zika virus,0.0,0.0,0.0,0.857
+World,3,Neglected tropical diseases and malaria,Ebola,0.0,0.0,0.0,0.0
+World,3,Neoplasms,Prostate cancer,0.0,0.0006,0.0006,0.0
+World,3,Neoplasms,Colon and rectum cancer,0.0,0.0003,0.0003,0.0
+World,3,Neoplasms,"Tracheal, bronchus, and lung cancer",0.0,0.0003,0.0003,0.0
+World,3,Neoplasms,Breast cancer,0.0,0.0002,0.0002,0.045
+World,3,Neoplasms,Stomach cancer,0.0,0.0002,0.0002,0.0
+World,3,Neoplasms,Bladder cancer,0.0,0.0001,0.0001,0.038
+World,3,Neoplasms,Other non-Hodgkin lymphoma,0.0,0.0001,0.0001,0.0382
+World,3,Neoplasms,Uterine cancer,0.0,0.0001,0.0001,0.0429
+World,3,Neoplasms,Esophageal cancer,0.0,0.0001,0.0001,0.13
+World,3,Neoplasms,Non-melanoma skin cancer (squamous-cell carcinoma),0.0,0.0001,0.0001,0.0
+World,3,Neoplasms,Cervical cancer,0.0,0.0001,0.0001,0.0786
+World,3,Neoplasms,Ovarian cancer,0.0,0.0001,0.0001,0.0623
+World,3,Neoplasms,Pancreatic cancer,0.0,0.0001,0.0,0.1599
+World,3,Neoplasms,Kidney cancer,0.0,0.0001,0.0,0.0858
+World,3,Neoplasms,Chronic lymphoid leukemia,0.0,0.0001,0.0,0.0281
+World,3,Neoplasms,Multiple myeloma,0.0,0.0,0.0,0.0494
+World,3,Neoplasms,Malignant skin melanoma,0.0,0.0,0.0,0.0619
+World,3,Neoplasms,Brain and central nervous system cancer,0.0,0.0,0.0,0.1049
+World,3,Neoplasms,Lip and oral cavity cancer,0.0,0.0,0.0,0.0946
+World,3,Neoplasms,Other malignant neoplasms,0.0,0.0,0.0,0.1076
+World,3,Neoplasms,Liver cancer due to hepatitis B,0.0,0.0,0.0,0.1533
+World,3,Neoplasms,Nasopharynx cancer,0.0,0.0,0.0,0.0606
+World,3,Neoplasms,Larynx cancer,0.0,0.0,0.0,0.0676
+World,3,Neoplasms,Gallbladder and biliary tract cancer,0.0,0.0,0.0,0.1471
+World,3,Neoplasms,Malignant neoplasm of bone and articular cartilage,0.0,0.0,0.0,0.0301
+World,3,Neoplasms,Other pharynx cancer,0.0,0.0,0.0,0.1277
+World,3,Neoplasms,Soft tissue and other extraosseous sarcomas,0.0,0.0,0.0,0.0532
+World,3,Neoplasms,Acute lymphoid leukemia,0.0,0.0,0.0,0.0561
+World,3,Neoplasms,Thyroid cancer,0.0,0.0,0.0,0.0424
+World,3,Neoplasms,Acute myeloid leukemia,0.0,0.0,0.0,0.1365
+World,3,Neoplasms,Liver cancer due to hepatitis C,0.0,0.0,0.0,0.1532
+World,3,Neoplasms,Other leukemia,0.0,0.0,0.0,0.0315
+World,3,Neoplasms,Testicular cancer,0.0,0.0,0.0,0.0401
+World,3,Neoplasms,Liver cancer due to alcohol use,0.0,0.0,0.0,0.1539
+World,3,Neoplasms,Hodgkin lymphoma,0.0,0.0,0.0,0.0553
+World,3,Neoplasms,Mesothelioma,0.0,0.0,0.0,0.1108
+World,3,Neoplasms,Other eye cancers,0.0,0.0,0.0,0.0428
+World,3,Neoplasms,Chronic myeloid leukemia,0.0,0.0,0.0,0.1302
+World,3,Neoplasms,Liver cancer due to NASH,0.0,0.0,0.0,0.1552
+World,3,Neoplasms,Burkitt lymphoma,0.0,0.0,0.0,0.0544
+World,3,Neoplasms,Liver cancer due to other causes,0.0,0.0,0.0,0.1535
+World,3,Neoplasms,Neuroblastoma and other peripheral nervous cell tumors,0.0,0.0,0.0,0.0631
+World,3,Neoplasms,Retinoblastoma,0.0,0.0,0.0,0.0092
+World,3,Neoplasms,Hepatoblastoma,0.0,0.0,0.0,0.0245
+World,3,Neurological disorders,Migraine,0.0,0.0161,0.0161,0.0
+World,3,Neurological disorders,Alzheimer's disease and other dementias,0.0,0.0054,0.0054,0.0
+World,3,Neurological disorders,Idiopathic epilepsy,0.0014,0.0025,0.0011,0.5505
+World,3,Neurological disorders,Tension-type headache,0.0,0.0018,0.0018,0.0
+World,3,Neurological disorders,Parkinson's disease,0.0,0.001,0.001,0.0
+World,3,Neurological disorders,Multiple sclerosis,0.0001,0.0004,0.0004,0.1526
+World,3,Neurological disorders,Motor neuron disease,0.0,0.0,0.0,0.1575
+World,3,Neurological disorders,Other neurological disorders,0.0,0.0,0.0,0.0
+World,3,Nutritional deficiencies,Iodine deficiency,0.0,0.0002,0.0002,0.0
+World,3,Nutritional deficiencies,Vitamin A deficiency,0.0,0.0002,0.0002,0.0
+World,3,Nutritional deficiencies,Protein-energy malnutrition,0.0,0.0,0.0,0.0
+World,3,Other infectious diseases,Meningitis,0.0,0.0003,0.0003,0.116
+World,3,Other infectious diseases,Encephalitis,0.0001,0.0002,0.0002,0.2308
+World,3,Other infectious diseases,Other unspecified infectious diseases,0.0,0.0,0.0,0.0
+World,3,Other infectious diseases,Tetanus,0.0,0.0,0.0,0.2877
+World,3,Other non-communicable diseases,Other gynecological diseases,0.0,0.0053,0.0053,0.0
+World,3,Other non-communicable diseases,Congenital musculoskeletal and limb anomalies,0.0,0.0015,0.0015,0.0
+World,3,Other non-communicable diseases,Other congenital birth defects,0.0,0.001,0.001,0.0
+World,3,Other non-communicable diseases,Sickle cell disorders,0.0,0.0006,0.0006,0.0196
+World,3,Other non-communicable diseases,Endometriosis,0.0,0.0004,0.0004,0.0
+World,3,Other non-communicable diseases,Other chromosomal abnormalities,0.0,0.0002,0.0002,0.0377
+World,3,Other non-communicable diseases,Neural tube defects,0.0,0.0002,0.0002,0.0718
+World,3,Other non-communicable diseases,Congenital heart anomalies,0.0,0.0002,0.0002,0.0
+World,3,Other non-communicable diseases,Urogenital congenital anomalies,0.0,0.0001,0.0001,0.0
+World,3,Other non-communicable diseases,Down syndrome,0.0,0.0001,0.0001,0.0033
+World,3,Other non-communicable diseases,Thyroid diseases,0.0,0.0,0.0,0.0
+World,3,Other non-communicable diseases,Uterine fibroids,0.0,0.0,0.0,0.0
+World,3,Other non-communicable diseases,Other hemoglobinopathies and hemolytic anemias,0.0,0.0,0.0,0.0
+World,3,Other non-communicable diseases,Thalassemias,0.0,0.0,0.0,0.0
+World,3,Other non-communicable diseases,G6PD deficiency,0.0,0.0,0.0,0.0
+World,3,Other non-communicable diseases,Digestive congenital anomalies,0.0,0.0,0.0,0.0
+World,3,Respiratory infections and tuberculosis,COVID-19,0.0003,0.0075,0.0072,0.0398
+World,3,Respiratory infections and tuberculosis,Drug-susceptible tuberculosis,0.0,0.0025,0.0025,0.0
+World,3,Respiratory infections and tuberculosis,Multidrug-resistant tuberculosis without extensive drug resistance,0.0,0.0001,0.0001,0.0
+World,3,Respiratory infections and tuberculosis,Otitis media,0.0,0.0,0.0,0.0
+World,3,Respiratory infections and tuberculosis,Upper respiratory infections,0.0,0.0,0.0,0.0
+World,3,Respiratory infections and tuberculosis,Extensively drug-resistant tuberculosis,0.0,0.0,0.0,0.0
+World,3,Respiratory infections and tuberculosis,Lower respiratory infections,0.0,0.0,0.0,0.0
+World,3,Sense organ diseases,Age-related and other hearing loss,0.0,0.0051,0.0051,0.0
+World,3,Sense organ diseases,Cataract,0.0,0.0044,0.0044,0.0
+World,3,Sense organ diseases,Refraction disorders,0.0,0.002,0.002,0.0
+World,3,Sense organ diseases,Other vision loss,0.0,0.0018,0.0018,0.0
+World,3,Sense organ diseases,Glaucoma,0.0,0.0006,0.0006,0.0
+World,3,Sense organ diseases,Age-related macular degeneration,0.0,0.0004,0.0004,0.0
+World,3,Skin and subcutaneous diseases,Urticaria,0.0,0.0019,0.0019,0.0
+World,3,Skin and subcutaneous diseases,Psoriasis,0.0006,0.0013,0.0008,0.4358
+World,3,Skin and subcutaneous diseases,Atopic dermatitis,0.0002,0.0013,0.0011,0.1609
+World,3,Skin and subcutaneous diseases,Contact dermatitis,0.0,0.0009,0.0009,0.0
+World,3,Skin and subcutaneous diseases,Acne vulgaris,0.0,0.0005,0.0005,0.0
+World,3,Substance use disorders,Opioid use disorders,0.002,0.0036,0.0016,0.5519
+World,3,Substance use disorders,Alcohol use disorders,0.0008,0.0021,0.0013,0.3914
+World,3,Substance use disorders,Cocaine use disorders,0.0,0.0005,0.0005,0.0303
+World,3,Substance use disorders,Amphetamine use disorders,0.0,0.0004,0.0004,0.0194
+World,3,Substance use disorders,Cannabis use disorders,0.0,0.0002,0.0002,0.0
